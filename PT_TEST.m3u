@@ -1,1312 +1,381 @@
+#EXTM3U url-tvg="https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-vodafone-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-meo-pt.xml.xz,https://github.com/LITUATUI/M3UPT/raw/main/EPG/epg-rytec-pt.xml.xz"
+# 📺 Canais de TV 
+RTP 1 -
+#EXTINF:-1 group-title="TV" tvg-id="rtp1hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png",RTP 1
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+RTP 2 -
+#EXTINF:-1 group-title="TV" tvg-id="rtp2hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP2.png",RTP 2
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
+SIC -
+#EXTINF:-1 group-title="TV" tvg-id="sichd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u
+TVI -
+#EXTINF:-1 group-title="TV" tvg-id="tvihd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",TVI
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyMyAxMTowOjQ3IEFNJmhhc2hfdmFsdWU9RnVTczRyNzBBdE1ncEQvclpzRElxUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTY3MWJkOWQ2LWQwZGUtNGI1Ni1hODEyLTUxMjJlNTVlMDIwYw==/
+Sic Noticias -
+#EXTINF:-1 group-title="TV" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.png",SIC Notícias
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://sic.pt/
+https://sicnot.live.impresa.pt/sicnot.m3u8
+RTP 3 -
+#EXTINF:-1 group-title="TV" tvg-id="rtp3hd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP3.png",RTP 3
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-live-app.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
+CNN Portugal -
+XTINF:-1 group-title="TV" tvg-id="cnnpthd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",CNN Portugal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyMyAxMTowOjQ4IEFNJmhhc2hfdmFsdWU9QWYyTWxNSmFabGgvOE51OXYxaTZodz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTJmNGYxZjI5LWVmYTYtNDAxYS1hYmQxLWE2MTZiMDY5MjEzNA==/
+CMTV-
 #EXTM3U
-#EXTINF:0,##### PT - PORTUGAL HD #####
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8136
-#EXTINF:0,PT -  RTP 1 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8134
-#EXTINF:0,PT -  RTP 2 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8133
-#EXTINF:0,PT -  RTP 3 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8130
-#EXTINF:0,PT -  RTP ACORES
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8129
-#EXTINF:0,PT -  RTP AFRICA
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8128
-#EXTINF:0,PT -  RTP MADEIRA
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8127
-#EXTINF:0,PT -  RTP MEMORIA
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8126
-#EXTINF:0,PT -  SIC
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8125
-#EXTINF:0,PT -  SIC MULHER
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8124
-#EXTINF:0,PT -  SIC NOTICIAS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8123
-#EXTINF:0,PT -  SIC RADICAL
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8122
-#EXTINF:0,PT -  SIC CARAS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8121
-#EXTINF:0,PT -  SIC K
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8120
-#EXTINF:0,PT -  CANAL Q
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8119
-#EXTINF:0,PT -  PORTO CANAL
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8118
-#EXTINF:0,PT -  TVE 24H
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8116
-#EXTINF:0,PT -  TVI
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8115
-#EXTINF:0,PT -  TVI FICCAO
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8113
-#EXTINF:0,PT -  TVI REALITY
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8111
-#EXTINF:0,PT -  TV RECORD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8110
-#EXTINF:0,PT -  ZAP VIVA HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8109
-#EXTINF:0,PT -  KURIAKOS TV
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8108
-#EXTINF:0,PT -  TCV CABO RADIO
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8107
-#EXTINF:0,##### PT-NOS PORTUGAL #####
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287300
-#EXTINF:0,PT -  RTP 1 HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287299
-#EXTINF:0,PT -  RTP 2 HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287298
-#EXTINF:0,PT -  RTP 3 HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287297
-#EXTINF:0,PT -  RTP ACORES NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287296
-#EXTINF:0,PT -  RTP MADEIRA NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287295
-#EXTINF:0,PT -  RTP MEMORIA NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287294
-#EXTINF:0,PT -  RTP AFRICA NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287293
-#EXTINF:0,PT -  SIC HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287292
-#EXTINF:0,PT -  SIC NOTICIAS HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287291
-#EXTINF:0,PT -  TVI HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287290
-#EXTINF:0,PT -  TVI NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287289
-#EXTINF:0,PT -  CNN PORTUGAL HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287288
-#EXTINF:0,PT -  TVI REALITY HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287287
-#EXTINF:0,PT -  TVI REALITY CAMARA 1 NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287286
-#EXTINF:0,PT -  TVI REALITY CAMARA 2 NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287285
-#EXTINF:0,PT -  TVI REALITY CAMARA 3 NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287284
-#EXTINF:0,PT -  TVI REALITY CAMARA 4 NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287283
-#EXTINF:0,PT -  CMTV HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287282
-#EXTINF:0,PT -  CMTV NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287281
-#EXTINF:0,PT -  PORTO CANAL HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287280
-#EXTINF:0,PT -  CACA E PESCA HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287279
-#EXTINF:0,##### PT-NOS INTRETINIMENTO #####
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287210
-#EXTINF:0,PT -  CBS REALITY NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287209
-#EXTINF:0,PT -  24 KITCHEN HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287207
-#EXTINF:0,PT -  AMC HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287206
-#EXTINF:0,PT -  SIC CARAS HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287205
-#EXTINF:0,PT -  SIC K NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287204
-#EXTINF:0,PT -  SIC MULHER HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287203
-#EXTINF:0,PT -  TRAVEL CHANNEL HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287202
-#EXTINF:0,PT -  TLC NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287201
-#EXTINF:0,PT -  SYFY HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287200
-#EXTINF:0,PT -  SIC RADICAL HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287199
-#EXTINF:0,PT -  TVE 24H NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287198
-#EXTINF:0,PT -  CANAL Q NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287197
-#EXTINF:0,PT -  EURONEWS NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287196
-#EXTINF:0,PT -  FTV NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287195
-#EXTINF:0,PT -  TVI FICCAO HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287194
-#EXTINF:0,PT -  TVI FICCAO NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287193
-#EXTINF:0,PT -  DOG TV FHD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287192
-#EXTINF:0,PT -  GLOBO HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287191
-#EXTINF:0,PT -  GLOBO NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287190
-#EXTINF:0,PT -  GLOBO NOW HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287189
-#EXTINF:0,PT -  GLOBO NOW NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287188
-#EXTINF:0,PT -  CACA E PESCA NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287187
-#EXTINF:0,PT -  E! ENTERTAINMENT NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287185
-#EXTINF:0,PT -  TV RECORD HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287184
-#EXTINF:0,PT -  TV RECORD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287183
-#EXTINF:0,PT -  E! HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287182
-#EXTINF:0,##### PT - DESPORTO HD #####
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8032
-#EXTINF:0,PT -  ELEVEN SPORTS 1 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8009
-#EXTINF:0,PT -  ELEVEN SPORTS 2 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8008
-#EXTINF:0,PT -  ELEVEN SPORTS 3 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8007
-#EXTINF:0,PT -  ELEVEN SPORTS 4 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8006
-#EXTINF:0,PT -  ELEVEN SPORTS 5 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8005
-#EXTINF:0,PT -  ELEVEN SPORTS 6 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8004
-#EXTINF:0,PT -  NBA TV
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8010
-#EXTINF:0,PT -  SPORT TV + HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286647
-#EXTINF:0,PT -  SPORT TV 1 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8019
-#EXTINF:0,PT -  SPORT TV 1 HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8018
-#EXTINF:0,PT -  SPORT TV 2 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8016
-#EXTINF:0,PT -  SPORT TV 3 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8014
-#EXTINF:0,PT -  SPORT TV 4
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8012
-#EXTINF:0,PT -  SPORT TV 5
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8011
-#EXTINF:0,PT -  SPORT TV 6 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/229314
-#EXTINF:0,PT -  TOROS TV
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8021
-#EXTINF:0,PT -  CMTV
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8022
-#EXTINF:0,PT -  PFC
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8023
-#EXTINF:0,PT -  EUROSPORT 2
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8024
-#EXTINF:0,PT -  EUROSPORT 1
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8025
-#EXTINF:0,PT -  EUROSPORT 1 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8026
-#EXTINF:0,PT -  FUEL TV
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8027
-#EXTINF:0,PT -  SPORTING TV
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8028
-#EXTINF:0,PT -  KOMBAT SPORT
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8029
-#EXTINF:0,PT -  A BOLA TV
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8030
-#EXTINF:0,PT -  BENFICA TV HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286643
-#EXTINF:0,PT -  MOTORVISION
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8003
-#EXTINF:0,PT -  CANAL 11
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8001
-#EXTINF:0,PT -  BTV 1 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8031
-#EXTINF:0,##### PT - DESPORTO SD #####
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286419
-#EXTINF:0,PT -  SPORT TV 6 SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286350
-#EXTINF:0,PT -  SPORTING TV SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286362
-#EXTINF:0,PT -  SPORT TV + SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286368
-#EXTINF:0,PT -  SPORT TV 1 SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286367
-#EXTINF:0,PT -  SPORT TV 2 SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286366
-#EXTINF:0,PT -  SPORT TV 3 SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286365
-#EXTINF:0,PT -  SPORT TV 4 SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286364
-#EXTINF:0,PT -  SPORT TV 5 SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286363
-#EXTINF:0,PT -  EUROSPORT 1 SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286394
-#EXTINF:0,PT -  EUROSPORT 2 SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286393
-#EXTINF:0,PT -  ELEVEN SPORTS 1 SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286399
-#EXTINF:0,PT -  ELEVEN SPORTS 2 SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286398
-#EXTINF:0,PT -  ELEVEN SPORTS 3 SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286397
-#EXTINF:0,PT -  ELEVEN SPORTS 4 SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286396
-#EXTINF:0,PT -  ELEVEN SPORTS 5 SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286395
-#EXTINF:0,##### PT-NOS DESPORTO #####
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287277
-#EXTINF:0,PT -  ELEVEN SPORTS 1 HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287276
-#EXTINF:0,PT -  ELEVEN SPORTS 2 HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287275
-#EXTINF:0,PT -  ELEVEN SPORTS 3 HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287274
-#EXTINF:0,PT -  ELEVEN SPORTS 5 HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287272
-#EXTINF:0,PT -  ELEVEN SPORTS 6 HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287271
-#EXTINF:0,PT -  SPORT TV + HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287270
-#EXTINF:0,PT -  SPORT TV 1 HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287269
-#EXTINF:0,PT -  SPORT TV 2 HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287268
-#EXTINF:0,PT -  SPORT TV 3 HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287267
-#EXTINF:0,PT -  SPORT TV 4 HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287266
-#EXTINF:0,PT -  CANAL 11 HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287265
-#EXTINF:0,PT -  A BOLA TV NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287264
-#EXTINF:0,PT -  BENFICA HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287263
-#EXTINF:0,PT -  MOTORVISION NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287262
-#EXTINF:0,PT -  PFC NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287261
-#EXTINF:0,PT -  SPORTING TV HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287260
-#EXTINF:0,PT -  SPORTING TV NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287259
-#EXTINF:0,PT -  FUEL TV HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287258
-#EXTINF:0,PT -  FUEL TV NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287257
-#EXTINF:0,PT -  SPORT TV NBA NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287256
-#EXTINF:0,##### PT - FILMES HD #####
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8094
-#EXTINF:0,PT -  NOS STUDIOS HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8075
-#EXTINF:0,PT -  NOS STUDIO HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8076
-#EXTINF:0,PT -  SYFY
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8077
-#EXTINF:0,PT -  FOX LIFE HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8078
-#EXTINF:0,PT -  FOX CRIME HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8079
-#EXTINF:0,PT -  FOX COMEDY
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8080
-#EXTINF:0,PT -  FOX MOVIES
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8081
-#EXTINF:0,PT -  FOX HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8082
-#EXTINF:0,PT -  TVCINE ACTION
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8083
-#EXTINF:0,PT -  TVCINE ACTION HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8085
-#EXTINF:0,PT -  TVCINE EMOTION HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8086
-#EXTINF:0,PT -  TVCINE EDITION HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8087
-#EXTINF:0,PT -  TVCINE TOP HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8088
-#EXTINF:0,PT -  AXN MOVIES HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8089
-#EXTINF:0,PT -  AXN WHITE HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8090
-#EXTINF:0,PT -  AXN HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8091
-#EXTINF:0,PT -  AMC HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8093
-#EXTINF:0,PT -  HOLLYWOOD HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8048
-#EXTINF:0,PT -  CINEMUNDO
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8046
-#EXTINF:0,PT -  HOLLYWOOD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8047
-#EXTINF:0,##### PT - FILMES SD #####
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286416
-#EXTINF:0,PT -  FOX COMEDY SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286392
-#EXTINF:0,PT -  FOX CRIME SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286391
-#EXTINF:0,PT -  FOX LIFE SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286390
-#EXTINF:0,PT -  FOX SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286389
-#EXTINF:0,PT -  FOX MOVIES SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286388
-#EXTINF:0,PT -  TVCINE ACTION SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286358
-#EXTINF:0,PT -  TVCINE EDITION SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286357
-#EXTINF:0,PT -  TVCINE EMOTION SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286356
-#EXTINF:0,PT -  TVCINE TOP SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286355
-#EXTINF:0,##### PT-NOS CINEMA #####
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287243
-#EXTINF:0,PT -  FOX HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287242
-#EXTINF:0,PT -  FOX LIFE HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287241
-#EXTINF:0,PT -  FOX CRIME HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287240
-#EXTINF:0,PT -  FOX COMEDY HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287239
-#EXTINF:0,PT -  FOX COMEDY NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287238
-#EXTINF:0,PT -  FOX MOVIES HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287237
-#EXTINF:0,PT -  FOX MOVIES NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287236
-#EXTINF:0,PT -  HOLLYWOOD HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287235
-#EXTINF:0,PT -  TVCINE ACTION HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287234
-#EXTINF:0,PT -  TVCINE EDITION HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287233
-#EXTINF:0,PT -  TVCINE EMOTION HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287232
-#EXTINF:0,PT -  TVCINE TOP HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287231
-#EXTINF:0,PT -  AXN HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287230
-#EXTINF:0,PT -  AXN MOVIES HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287229
-#EXTINF:0,PT -  AXN WHITE HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287228
-#EXTINF:0,PT -  CINEMUNDO HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287227
-#EXTINF:0,PT -  CINEMUNDO NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287226
-#EXTINF:0,PT -  NOS STUDIOS HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287225
-#EXTINF:0,##### PT - CULTURA HD #####
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8043
-#EXTINF:0,PT -  NATIONAL GEOGRAPHIC HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286644
-#EXTINF:0,PT -  NAT GEO GEOGRAPHIC HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8040
-#EXTINF:0,PT -  NATIONAL GEOGRAPHIC WILD HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286645
-#EXTINF:0,PT -  INVESTIGATION DISCOVERY HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286646
-#EXTINF:0,PT -  NAT GEO WILD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8039
-#EXTINF:0,PT -  DISCOVERY CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8042
-#EXTINF:0,PT -  TLC
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8033
-#EXTINF:0,PT -  HISTORIA
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8034
-#EXTINF:0,PT -  24 KITCHEN HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8035
-#EXTINF:0,PT -  ODISSEIA
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8036
-#EXTINF:0,PT -  TRAVEL CHANNEL HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8037
-#EXTINF:0,PT -  TVI 24 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286649
-#EXTINF:0,##### PT - CULTURA SD #####
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286418
-#EXTINF:0,PT -  24 KITCHEN SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286415
-#EXTINF:0,PT -  CACA E PESCA SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286407
-#EXTINF:0,PT -  DISCOVERY CHANNEL SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286402
-#EXTINF:0,PT -  NATIONAL GEOGRAFIC WILD SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286383
-#EXTINF:0,PT -  NATIONAL GEOGRAPHIC SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286382
-#EXTINF:0,PT -  HISTORIA SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286386
-#EXTINF:0,PT -  TVI 24 SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286354
-#EXTINF:0,##### PT-NOS CULTURA #####
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287255
-#EXTINF:0,PT -  ID INVESTIGATION DISCOVERY HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287254
-#EXTINF:0,PT -  DISCOVERY CHANNEL NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287251
-#EXTINF:0,PT -  NATIONAL GEOGRAPHIC HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287250
-#EXTINF:0,PT -  NATIONAL GEOGRAPHIC NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287249
-#EXTINF:0,PT -  NATIONAL GEOGRAPHIC WILD HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287248
-#EXTINF:0,PT -  NATIONAL GEOGRAPHIC WILD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287247
-#EXTINF:0,PT -  ODISSEIA HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287246
-#EXTINF:0,PT -  HISTORIA HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287245
-#EXTINF:0,PT -  CASA E COZINHA HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287244
-#EXTINF:0,##### PT - INFANTIL #####
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8106
-#EXTINF:0,PT -  BABY TV
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8105
-#EXTINF:0,PT -  NICK JR.
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8097
-#EXTINF:0,PT -  NICKELODEON
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8098
-#EXTINF:0,PT -  BIGGS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8099
-#EXTINF:0,PT -  CARTOON NETWORK
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8101
-#EXTINF:0,PT -  DISNEY JUNIOR
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8102
-#EXTINF:0,PT -  DISNEY CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8103
-#EXTINF:0,PT -  CANAL PANDA
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8104
-#EXTINF:0,PT -  BOOMERANG HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/74201
-#EXTINF:0,PT -  BOOMERANG
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/74191
-#EXTINF:0,##### PT - INFANTIL SD #####
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286498
-#EXTINF:0,PT -  CANAL PANDA SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286405
-#EXTINF:0,PT -  DISNEY CHANNEL SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286401
-#EXTINF:0,PT -  DISNEY JUNIOR SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286400
-#EXTINF:0,PT -  PANDA BIGGS SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286378
-#EXTINF:0,PT -  NICK JR SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286381
-#EXTINF:0,PT -  NICKELODEAN SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286380
-#EXTINF:0,PT -  BABY TV SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286409
-#EXTINF:0,##### PT-NOS INFANTIL #####
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287224
-#EXTINF:0,PT -  BABY TV NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287223
-#EXTINF:0,PT -  NICKELODEON NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287222
-#EXTINF:0,PT -  DISNEY CHANNEL NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287220
-#EXTINF:0,PT -  DISNEY JUNIOR NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287219
-#EXTINF:0,PT -  PANDA BIGGS NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287218
-#EXTINF:0,PT -  CANAL PANDA NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287217
-#EXTINF:0,PT -  CARTOON NETWORK NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287216
-#EXTINF:0,##### PT-NOS MUSICA #####
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287215
-#EXTINF:0,PT -  MTV PORTUGAL HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287214
-#EXTINF:0,PT -  MTV PORTUGAL NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287213
-#EXTINF:0,PT -  AFRO MUSIC NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287212
-#EXTINF:0,##### PT-NOS INTERNATIONAL #####
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287181
-#EXTINF:0,PT -  TV GALICIA NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287180
-#EXTINF:0,PT -  TOROS TV NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287178
-#EXTINF:0,PT -  MCM TOP NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287174
-#EXTINF:0,PT -  TRACE URBAN HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287173
-#EXTINF:0,PT -  TRACE URBAN NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287172
-#EXTINF:0,PT -  MEZZO NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287171
-#EXTINF:0,PT -  TV5 MONDE NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287169
-#EXTINF:0,PT -  CNN NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287168
-#EXTINF:0,PT -  BLOOMBERG NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287167
-#EXTINF:0,PT -  CNBC NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287166
-#EXTINF:0,PT -  BBC WORLD NEWS NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287163
-#EXTINF:0,PT -  SKY NEWS NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287162
-#EXTINF:0,PT -  FIGHT NETWORK HD NOS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/287160
-#EXTINF:0,PT -  CANACAO NOVA
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8060
-#EXTINF:0,PT -  FTV
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8061
-#EXTINF:0,PT -  BLOOMBERG
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8062
-#EXTINF:0,PT -  CBS REALITY
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8063
-#EXTINF:0,PT -  BBC WORLD NEWS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8064
-#EXTINF:0,PT -  TV5 MONDE
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8065
-#EXTINF:0,PT -  EURONEWS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8066
-#EXTINF:0,PT -  CNBC
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8068
-#EXTINF:0,PT -  SKY NEWS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8069
-#EXTINF:0,PT -  CNN
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8070
-#EXTINF:0,PT -  TV GALICIA
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8071
-#EXTINF:0,PT -  GLOBO HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8073
-#EXTINF:0,##### PT - INTERNACIONAIS HD #####
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8074
-#EXTINF:0,PT -  RTP INTERNATIONAL
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/47624
-#EXTINF:0,PT -  CACA E PESCA HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/62623
-#EXTINF:0,PT -  TVI MOSAICO
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/74187
-#EXTINF:0,PT -  TV RECORD NEWS
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/74188
-#EXTINF:0,PT -  TV GLOBO
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/74189
-#EXTINF:0,PT -  TV GLOBO NOW
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/74190
-#EXTINF:0,|PT| CNN Portugal HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/455214
-#EXTINF:0,|PT| CNN Portugal FHD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/455217
-#EXTINF:0,PT -  TVI REALITY HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/74193
-#EXTINF:0,PT -  TVI REALITY SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286351
-#EXTINF:0,PT -  TVI SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286352
-#EXTINF:0,PT -  TVI FICCAO SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286353
-#EXTINF:0,PT -  TV RECORD SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286359
-#EXTINF:0,PT -  TLC SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286360
-#EXTINF:0,PT -  SYFY SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286361
-#EXTINF:0,PT -  SIC RADICAL SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286369
-#EXTINF:0,PT -  SIC NOTICIAS SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286370
-#EXTINF:0,PT -  SIC MULHER SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286371
-#EXTINF:0,PT -  SIC SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286372
-#EXTINF:0,PT -  RTP MEMORIA SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286373
-#EXTINF:0,PT -  RTP 3 SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286374
-#EXTINF:0,PT -  RTP 2 SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286375
-#EXTINF:0,PT -  RTP 1 SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286376
-#EXTINF:0,PT -  PORTO CANAL SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286377
-#EXTINF:0,PT -  NOS STUDIOS SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286379
-#EXTINF:0,PT -  MTV PORTUGAL SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286384
-#EXTINF:0,PT -  HOLLYWOOD SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286385
-#EXTINF:0,PT -  GLOBO SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286387
-#EXTINF:0,PT -  CMTV SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286403
-#EXTINF:0,PT -  CINEMUNDO SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286404
-#EXTINF:0,PT -  CANAL 11 SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286406
-#EXTINF:0,PT -  BENFICA SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286408
-#EXTINF:0,PT -  AXN WHITE SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286410
-#EXTINF:0,PT -  AXN MOVIES SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286411
-#EXTINF:0,PT -  AXN SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286412
-#EXTINF:0,PT -  AMC SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286413
-#EXTINF:0,PT -  A BOLA TV SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286414
-#EXTINF:0,##### PT - PORTUGAL SD #####
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286521
-#EXTINF:0,PT -  CANAL 11 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/286642
-#EXTINF:0,|PT| CNN Portugal SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/455215
-#EXTINF:0,|PT| TPA Internacional SD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/455219
-#EXTINF:0,PT -  FOOD NETWORK
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/310826
-#EXTINF:0,PT -  TVI INTERNATION
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/412795
-#EXTINF:0,##### BRAZIL - GENERAL #####
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8539
-#EXTINF:0,BR -  GLOBO BRASILA HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8537
-#EXTINF:0,BR -  GLOBO RJ HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8536
-#EXTINF:0,BR -  GLOBO SP HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8535
-#EXTINF:0,BR -  GLOBO MINAS HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8534
-#EXTINF:0,BR -  GLOBO NORDESTE HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8533
-#EXTINF:0,BR -  GLOBO RBS PORTO ALEGRE HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8532
-#EXTINF:0,BR -  GLOBO TV MIRANTE HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8531
-#EXTINF:0,BR -  GLOBO TV SERGIPE HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8530
-#EXTINF:0,BR -  RECORD HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8529
-#EXTINF:0,BR -  RECORD RJ HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8528
-#EXTINF:0,BR -  RECORD SP HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8527
-#EXTINF:0,BR -  WOOHOO HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8526
-#EXTINF:0,BR -  VIVA HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8525
-#EXTINF:0,BR -  E! HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8524
-#EXTINF:0,BR -  LIFETIME HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8522
-#EXTINF:0,BR -  FOOD NETWORK HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8521
-#EXTINF:0,BR -  GLOOB HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8520
-#EXTINF:0,BR -  GNT HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8519
-#EXTINF:0,BR -  GLOBOSAT HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8518
-#EXTINF:0,BR -  CANAL BRASIL HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8517
-#EXTINF:0,BR -  NOVO TEMPO HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8516
-#EXTINF:0,BR -  REDE TV HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8515
-#EXTINF:0,BR -  SBT HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8513
-#EXTINF:0,BR -  CURTA! HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8512
-#EXTINF:0,BR -  PRIME BOX BRASIL HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8511
-#EXTINF:0,##### BRAZIL - NEWS #####
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8510
-#EXTINF:0,BR -  GLOBO NEWS HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8509
-#EXTINF:0,BR -  RECORD NEWS HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8508
-#EXTINF:0,BR -  BAND NEWS HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8507
-#EXTINF:0,##### BRAZIL - KIDS #####
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8505
-#EXTINF:0,BR -  BABY HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8504
-#EXTINF:0,BR -  BOOMERANG HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8503
-#EXTINF:0,BR -  CARTOON NETWORK HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8502
-#EXTINF:0,BR -  DISNEY CHANNEL HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8501
-#EXTINF:0,BR -  NICK HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8498
-#EXTINF:0,BR -  NICK JR HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8497
-#EXTINF:0,BR -  NICKELODEON HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8496
-#EXTINF:0,BR -  TOONCAST HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8495
-#EXTINF:0,BR -  RA TIM BUM HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8494
-#EXTINF:0,##### BRAZIL - MOVIES #####
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8493
-#EXTINF:0,BR -  HBO HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8490
-#EXTINF:0,BR -  HBO 2 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8489
-#EXTINF:0,BR -  HBO FAMILY HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8488
-#EXTINF:0,BR -  HBO PLUS HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8487
-#EXTINF:0,BR -  HBO SIGNATURE HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8486
-#EXTINF:0,BR -  PREMIERE CLUBES HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8484
-#EXTINF:0,BR -  PREMIERE 2 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8483
-#EXTINF:0,BR -  PREMIERE 3 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8482
-#EXTINF:0,BR -  PREMIERE 4 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8481
-#EXTINF:0,BR -  PREMIERE 5 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8480
-#EXTINF:0,BR -  PREMIERE 6 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8479
-#EXTINF:0,BR -  PREMIERE 7 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8478
-#EXTINF:0,BR -  TELECINE PREMIUM HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8477
-#EXTINF:0,BR -  TNT HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8476
-#EXTINF:0,BR -  TNT SERIES HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8475
-#EXTINF:0,BR -  TELECINE ACTION HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8474
-#EXTINF:0,BR -  TELECINE CULT HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8473
-#EXTINF:0,BR -  TELECINE FUN HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8472
-#EXTINF:0,BR -  TELECINE PIPOCA HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8471
-#EXTINF:0,BR -  TELECINE TOUCH HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8470
-#EXTINF:0,BR -  WARNER CHANNEL HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8469
-#EXTINF:0,BR -  HBO POP HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/139043
-#EXTINF:0,BR -  HBO XTREME HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/139042
-#EXTINF:0,BR -  AMC HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8468
-#EXTINF:0,BR -  ARTE 1 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8467
-#EXTINF:0,BR -  AXN HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8466
-#EXTINF:0,BR -  BAND CAMPINAS HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8465
-#EXTINF:0,BR -  BAND SP HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8464
-#EXTINF:0,BR -  BAND SPORT HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8463
-#EXTINF:0,BR -  CINEMAX HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8462
-#EXTINF:0,BR -  COMEDY CENTRAL HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8461
-#EXTINF:0,BR -  FX HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8458
-#EXTINF:0,BR -  MEGAPIX HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8455
-#EXTINF:0,BR -  MULTISHOW HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8454
-#EXTINF:0,BR -  OFF HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8453
-#EXTINF:0,BR -  PARAMOUNT HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8452
-#EXTINF:0,BR -  SONY CHANNEL HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8451
-#EXTINF:0,BR -  SPACE HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8450
-#EXTINF:0,BR -  STUDIO UNIVERSAL HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8449
-#EXTINF:0,BR -  SYFY HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8448
-#EXTINF:0,BR -  TBS HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8447
-#EXTINF:0,BR -  TCM HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8446
-#EXTINF:0,BR -  TLC HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8445
-#EXTINF:0,BR -  UNIVERSAL HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8444
-#EXTINF:0,BR -  ZOOMOO HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8443
-#EXTINF:0,BR -  A&E HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8442
-#EXTINF:0,##### BRAZIL - SPORT #####
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8441
-#EXTINF:0,BR -  SPORTV 1 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8440
-#EXTINF:0,BR -  SPORTV 2 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8439
-#EXTINF:0,BR -  SPORTV 3 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8438
-#EXTINF:0,BR -  FOX SPORTS HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8437
-#EXTINF:0,BR -  ESPN HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8435
-#EXTINF:0,BR -  ESPN EXTRA HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8434
-#EXTINF:0,BR -  ESPN 2 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8433
-#EXTINF:0,BR -  ESPN BRASIL HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8432
-#EXTINF:0,BR -  COMBATE HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8431
-#EXTINF:0,BR -  BAND SPORTS HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8430
-#EXTINF:0,##### BRAZIL - MUSIC #####
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8429
-#EXTINF:0,BR -  BIS HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8428
-#EXTINF:0,BR -  MTV HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8427
-#EXTINF:0,##### BRAZIL - DOCUMANTARY #####
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8426
-#EXTINF:0,BR -  ANIMAL PLANET HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8425
-#EXTINF:0,BR -  DISCOVERY HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8424
-#EXTINF:0,BR -  DISCOVERY CIVILIZATION HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8423
-#EXTINF:0,BR -  DISCOVERY H&H HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8422
-#EXTINF:0,BR -  DISCOVERY KIDS HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8421
-#EXTINF:0,BR -  DISCOVERY SCIENCE HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8420
-#EXTINF:0,BR -  DISCOVERY THEATER HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8419
-#EXTINF:0,BR -  DISCOVERY TURBO HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8418
-#EXTINF:0,BR -  DISCOVERY WORLD HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8417
-#EXTINF:0,BR -  HISTORY HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8416
-#EXTINF:0,BR -  H2 HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8415
-#EXTINF:0,BR -  DISCOVERY ID HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8414
-#EXTINF:0,BR -  NAT GEO HD
-#EXTVLCOPT:network-caching=1000
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8413
+#EXTINF:0 tvg-country="PT" tvg-logo="https://th.bing.com/th?id=OIP.SeFxch1guQnLkzIAzb7D6QHaEO&w=261&h=149&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" group-title="News",CMTV PT
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+Sport TV +
+#EXTM3U
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Sport",UEFA : SPORT TV +  FHD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/19171?checkedby:iptvcat.com
+Globo -
+#EXTM3U
+#EXTINF:0 tvg-country="BR" tvg-logo="http://esrv.cc:80/images/9d6a87673c5205823f11ee7a717b03a7.png" group-title="Undefined",Globo SP HD
+http://esrv.cc:80/eduardo002/72836392/223.ts?checkedby:iptvcat.com
+Canal 11-
+??????????
+Tvi Reality
+#EXTINF:-1 group-title="TV" tvg-id="tvireality.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Reality.png",TVI Reality
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC83LzIwMjMgOToxMjo1NSBQTSZoYXNoX3ZhbHVlPXJGMTRQTEVSQnBPaUczcGw4NjVLQWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04ODZjNDAyNy0zNTM0LTRlYjItYTkwMC1iNjJkOWZlMTIzOTE=/
+Sic Mulher -
+???????
+Sic Caras -
+???????
+Sic Radical -
+??????
+RTP Memória
+#EXTINF:-1 group-title="TV" tvg-id="rtpmem.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Memória.png",RTP Memória
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+BTV-
+???????
+Sport TV 1 -
+#EXTM3U
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Sport",UEFA : SPORT TV 1
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/19172?checkedby:iptvcat.com
+Sport TV 2 -
+#EXTM3U
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Sport",UEFA : SPORT TV 2 HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/19176?checkedby:iptvcat.com
+Sport TV 3-
+???????
+Sport TV 4 -
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Sport",Sport TV 4
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10210?checkedby:iptvcat.com
+Sport TV 5 -
+???????
+Sport TV 6 -
+#EXTM3U
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Sport",UEFA : SPORT TV 6 HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/19187?checkedby:iptvcat.com
+Sport TV NBA -
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Sport TV NBA
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66370?checkedby:iptvcat.com
+Porto Canal -
+#EXTINF:-1 group-title="TV" tvg-id="portochd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porto-Canal.png",Porto Canal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stream-03.nyc.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0inLVzSLFsU13_baJ01evKiqmhlIXBGldPhxfrqr5e_9)/dm/3/x8egnb8/s/live-2.m3u8
+Sporting TV -
+??????
+Eleven Sports 1 -
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",Eleven 1 HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10155?checkedby:iptvcat.com
+Eleven Sports 2 -
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",Eleven 2 HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10156?checkedby:iptvcat.com
+Eleven Sports 3 -
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",Eleven 3
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10157?checkedby:iptvcat.com
+Eleven Sports 4 -
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Sport",Eleven Sports 4
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10159?checkedby:iptvcat.com
+Eleven Sports 5 -
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 5
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66315?checkedby:iptvcat.com
+Eleven Sports 6 -
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",Eleven Sports 6
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66316?checkedby:iptvcat.com
+Disney Channel -
+#EXTM3U
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Disney Channel 4K
+http://esrv.cc:80/eduardo002/72836392/41327.ts?checkedby:iptvcat.com
+Nickelodeon -
+#EXTM3U
+#EXTINF:0 tvg-country="BR" tvg-logo="http://esrv.cc:80/images/659b507e79254ccc63983a0755ce104f.png" group-title="Undefined",Nickelodeon 4K
+http://esrv.cc:80/eduardo002/72836392/41467.ts?checkedby:iptvcat.com
+Canal Panda -
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Canal Panda
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66297?checkedby:iptvcat.com
+Biggs -
+??????
+Disney Junior -
+#EXTM3U
+#EXTINF:0 tvg-country="FR" tvg-logo="http://ghostiptv.vip:80/images/bf42a29c5032f98757efe32c56565cec.png" group-title="FRANCE",Disney Junior HD
+http://ghostiptv.vip:80/777444/777444/43931?checkedby:iptvcat.com
+Cartoon Network -
+#EXTM3U
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",Cartoon Network 4K
+http://esrv.cc:80/eduardo002/72836392/41529.ts?checkedby:iptvcat.com
+Nick Jr. -
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",Nick Jr.
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10188?checkedby:iptvcat.com
+Baby TV -
+?????
+Sic K -
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SIC K
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66356?checkedby:iptvcat.com
+Hollywood-
+?????
+FTV -
+#EXTINF:-1 group-title="TV" tvg-id="fashiontvhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fashion-TV.png",Fashion TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+E! Enterteinment
+??????
+AMC -
+#EXTM3U
+#EXTINF:0 tvg-country="BR" tvg-logo="http://esrv.cc:80/images/d6fcd247ac34f4000534371fe6378a25.png" group-title="Undefined",AMC 4K
+http://esrv.cc:80/eduardo002/72836392/41542.ts?checkedby:iptvcat.com
+Fox Movies -
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",HD FOX MOVIES
+http://xtra.fireottplus.com:2052/017458648389/407609858756/146837?checkedby:iptvcat.com
+Fox Comedy -
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",Fox Comedy
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10168?checkedby:iptvcat.com
+Canal Q -
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Canal Q
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/66298?checkedby:iptvcat.com
+TLC -
+#EXTM3U
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",TLC 4K
+http://esrv.cc:80/eduardo002/72836392/41434.ts?checkedby:iptvcat.com
+MTV Portugal -
+#EXTM3U
+#EXTINF:0 tvg-country="BR" tvg-logo="http://esrv.cc:80/images/76601c5ad504f8ec2689283f2d64ec75.png" group-title="Undefined",MTV 4K
+http://esrv.cc:80/eduardo002/72836392/41474.ts?checkedby:iptvcat.com
+TV Record -
+#EXTM3U
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="News",RECORD NEWS
+http://168.205.87.198:8555/live/1431/123456/97.ts?checkedby:iptvcat.com
+ID Investigation -
+#EXTM3U
+#EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/ZYPDp5Q/iptv-2.png" group-title="Undefined",INVESTIGATION DISCOVERY (MX)
+http://fuzzyunicorns.net:80/live/uFbrK9uUN/81qh5S2aF/579195.ts?checkedby:iptvcat.com
+TVCine TOP HD -
+????
+TVCine Edition HD -
+?????????
+TVCine Emotion HD -
+????????
+TVCine  Action HD -
+??????
+AXN HD -
+#EXTM3U
+#EXTINF:0 tvg-country="BR" tvg-logo="http://esrv.cc:80/images/2c7a35f5ad4bc14720625b75b4c0226e.png" group-title="Undefined",AXN HD (Legendado)
+http://esrv.cc:80/eduardo002/72836392/40045.ts?checkedby:iptvcat.com
+AXN Movies HD -
+???????
+Fox Life -
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",FOX Life HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10166?checkedby:iptvcat.com
+Fox -
+???????
+Syfy -
+#EXTM3U
+#EXTINF:0 tvg-country="BR" tvg-logo="http://esrv.cc:80/images/43b23f67f0ac59842f93a444cae69c55.png" group-title="Undefined",SYFY 4K
+http://esrv.cc:80/eduardo002/72836392/41442.ts?checkedby:iptvcat.com
+Fox Crime -
+??????
+AXN White HD -
+?????
+TVI Ficção -
+#EXTINF:-1 group-title="TV" tvg-id="TVIFIC.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI-Ficção.png",TVI Ficção
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+24 Kitchen HD-
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",24 Kitchen HD
+http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10126?checkedby:iptvcat.com
+Discovery Channel -
+#EXTM3U
+#EXTINF:0 tvg-country="BR" tvg-logo="http://esrv.cc:80/images/5eec61b37f3e88c71d9def4ff31bc35e.png" group-title="Undefined",Discovery Channel 4K
+http://esrv.cc:80/eduardo002/72836392/41515.ts?checkedby:iptvcat.com
+National Geographic Wild - 
+#EXTM3U
+#EXTINF:0 tvg-country="BG" tvg-logo="https://i.ibb.co/ZYPDp5Q/iptv-2.png" group-title="Undefined",NAT GEO WILD
+http://fuzzyunicorns.net:80/live/uFbrK9uUN/81qh5S2aF/754339.ts?checkedby:iptvcat.com
+Odissea -
+????
+AMC Break -
+??
+Discovery  -
+#EXTM3U
+#EXTINF:0 tvg-country="BR" tvg-logo="http://esrv.cc:80/images/d4da472d95ec1851ec45a5cb384d462e.png" group-title="Undefined",Discovery Turbo HD
+http://esrv.cc:80/eduardo002/72836392/114.ts?checkedby:iptvcat.com
+National Geographic -
+#EXTM3U
+#EXTINF:0 tvg-country="BR" tvg-logo="http://esrv.cc:80/images/7712e244d8ddd3728605369a8163e9eb.png" group-title="Undefined",National Geographic FHD
+http://esrv.cc:80/eduardo002/72836392/31881.ts?checkedby:iptvcat.com
+Travel Channel -
+#EXTM3U
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.ibb.co/ZYPDp5Q/iptv-2.png" group-title="Undefined",TRAVEL CHANNEL WEST
+http://fuzzyunicorns.net:80/live/uFbrK9uUN/81qh5S2aF/435922.ts?checkedby:iptvcat.com
+EuroSport 1 HD-
+#EXTM3U
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.ibb.co/ZYPDp5Q/iptv-2.png" group-title="Sport",EUROSPORT 1
+http://fuzzyunicorns.net:80/live/uFbrK9uUN/81qh5S2aF/579895.ts?checkedby:iptvcat.com
+Euro Sport 2 HD -
+?????
+Fuel TV -
+#EXTINF:-1 group-title="TV" tvg-id="fueltvhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fuel-TV.png",Fuel TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://fueltv-fueltv-1.samsung.wurl.com/manifest/playlist.m3u8
+MotorVision -
+#EXTM3U
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Motorvision.TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
+Toros TV -
+???????
+Caça e Pesca -
+?????
+MTV 00s -
+#EXTM3U
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",MTV 00s
+http://myott.top/stream/DT6QU63K5VX/165.m3u8?checkedby:iptvcat.com
+Mezzo -
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Mezzo
+http://red.ipfox.org:8080/osama2022/osama2023/49277?checkedby:iptvcat.com
+MCM Pop -
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",MCM Pop
+http://red.ipfox.org:8080/osama2022/osama2023/49284?checkedby:iptvcat.com
+Trace Toca -
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Trace Toca
+http://red.ipfox.org:8080/osama2022/osama2023/49280?checkedby:iptvcat.com
+Globo News -
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Globo News
+http://red.ipfox.org:8080/osama2022/osama2023/49254?checkedby:iptvcat.com
+PFC -
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" group-title="Undefined",PFC
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159593?checkedby:iptvcat.com
+Kuriakos TV -
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Kuriakos TV
+http://red.ipfox.org:8080/osama2022/osama2023/49260?checkedby:iptvcat.com
+Canção Nova -
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Canção Nova
+http://red.ipfox.org:8080/osama2022/osama2023/49259?checkedby:iptvcat.com
+RTP Madeira -
+#EXTINF:-1 group-title="TV" tvg-id="rtpmad.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Madeira.png",RTP Madeira
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+RTP Açores -
+#EXTINF:-1 group-title="TV" tvg-id="rtpacorhd.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Açores.png",RTP Açores
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+RTP África
+#EXTINF:-1 group-title="TV" tvg-id="rtpaf.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-África.png",RTP África
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+Euronews -
+#EXTINF:-1 group-title="TV" tvg-id="euronw.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+CNN -
+#EXTINF:-1 group-title="TV" tvg-id="cnn.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png",CNN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+Sky News -
+#EXTINF:-1 group-title="TV" tvg-id="skynews.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Sky-News.png",Sky News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+France 24 (I)
+#EXTINF:-1 group-title="TV" tvg-id="fra24e.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/France-24.png",France 24 English
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://www.youtube.com/watch?v=h3MuIUNCCzI
+CNBC -
+#EXTINF:-1 tvg-id="CNBCEurope.uk" tvg-logo="https://i.imgur.com/B6sfpDa.png" group-title="Business" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",CNBC Europe (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s65/index.m3u8
+Bloomberg -
+#EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Europe (720p)
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+TVE 24h -
+#EXTINF:-1 group-title="TV" tvg-id="tve24.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png",TVE 24h
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
+ARTV -
+#EXTINF:-1 group-title="TV" tvg-id="artv.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ARTV.png",ARTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://playout172.livextend.cloud/liveiframe/_definst_/ngrp:liveartvabr_abr/playlist.m3u8
+Galicia TV -
+#EXTINF:-1 group-title="TV" tvg-id="tvgalicia.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVG.png",TV Galicia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://europa-crtvg.flumotion.com/crtvg/europa_high/playlist.m3u8
+TVE Internacional -
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVEi
+http://red.ipfox.org:8080/osama2022/osama2023/49231?checkedby:iptvcat.com
+TV5 Monde -
+#EXTINF:-1 group-title="TV" tvg-id="tv5mon.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TV5-Monde-Info.png",TV5 Monde Info
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+Cubavision (I) -
+#EXTINF:-1 group-title="TV" tvg-id="cubavi.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Cubavisión-Internacional.png",Cubavisión Internacional
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://teveo.cu/
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+TeleSUR -
+#EXTINF:-1 group-title="TV" tvg-id="TELESUR.meo.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Telesur.png",teleSUR
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+--------------------------------- Nova lista -------------------------------------------
