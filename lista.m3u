@@ -1,143 +1,661 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ADBTV.pt" tvg-logo="https://i.ibb.co/HGfTJwt/ADBTV.jpg" group-title="Religious",ADB TV (1080p)
-https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/playlist.m3u8
-#EXTINF:-1 tvg-id="AfricanewsEnglish.cg" tvg-logo="" group-title="Undefined",Africanews
-https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTVEurope.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Europe (720p)
-https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angeleurope_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTVPortuguese.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Portuguese (720p)
-https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelportuguese_all/playlist.m3u8
-#EXTINF:-1 tvg-id="ARTV.pt" tvg-logo="https://i.imgur.com/y00t9hr.png" group-title="Legislative",ARTV Canal Parlamento (720p) [Not 24/7]
-https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCNewsEurope.uk" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="News" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",BBC World News (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s24/index.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV EMEA Live Event (720p)
-https://bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Europe (720p)
-https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-id="CamoesTV.ca" tvg-logo="https://i.imgur.com/XMdQhgz.jpg" group-title="General",Camões TV (1080p) [Not 24/7]
-https://customer-3s66icmlj6pe1jxm.cloudflarestream.com/5591a95d07ca3d04141053f912543447/manifest/video.m3u8
-#EXTINF:-1 tvg-id="Canal11.pt" tvg-logo="https://i.imgur.com/mbQCGm5.png" group-title="Sports",Canal 11 (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCMfEEaNYYX5w6nbvccTCHhg.m3u8
-#EXTINF:-1 tvg-id="CanaldeOracaoMana.pt" tvg-logo="https://i.imgur.com/Z05giHV.png" group-title="Religious",Canal de Oração Maná (2160p) [Not 24/7]
-https://ythls.armelin.one/channel/UCI7xBRUwWJ6LKipBkjWzfVg.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/dfxefQw.png" group-title="News",CNN International Europe (720p)
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-logo="https://i.imgur.com/bc6tYVZ.png" group-title="News",CNN Portugal (720p)
-https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
-#EXTINF:-1 tvg-id="EbS.be" tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="Legislative",EbS Live (Europe by Satellite) (1080p)
-https://eucom-live.freecaster.com/eucom/96098bf4-5a2a-466b-8d7f-e35300fa4f28/96098bf4-5a2a-466b-8d7f-e35300fa4f28.isml/master.m3u8
-#EXTINF:-1 tvg-id="EbSPlus.be" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="Legislative",EbS+ Live (Europe by Satellite) (1080p)
-https://eucom-live.freecaster.com/eucom/96098c0b-0743-4afc-9562-db1673053f9d/96098c0b-0743-4afc-9562-db1673053f9d.isml/master.m3u8
-#EXTINF:-1 tvg-id="EWTNEurope.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN Europe (720p) [Not 24/7]
-https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ExtremeSportsChannel.nl" tvg-logo="https://i.imgur.com/m7IC01U.png" group-title="Sports" user-agent="ExoPlayer2/2.37",Extreme Sports
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://edge02.odtv.az/o4/extremesport/playlist.m3u8
-#EXTINF:-1 tvg-id="Famatv.pt" tvg-logo="https://i.ibb.co/tMmRp18/Fama-TV-cor-whitebg-hotizontal.jpg" group-title="Music",Famatv (1080p) [Not 24/7]
-https://streamer-a03.videos.sapo.pt/live/famatv/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",Fashion TV
-https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="iesTV.pt" tvg-logo="https://i.imgur.com/zYj5pU5.png" group-title="Religious",iesTV (1080p)
-https://joaocaiado.com:1443/ies_tv/ngrp:ies_tv_all/playlist.m3u8
-#EXTINF:-1 tvg-id="KTO.fr" tvg-logo="https://i.imgur.com/EY6TsdV.png" group-title="Undefined",KTO (404p) [Not 24/7]
-https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
-#EXTINF:-1 tvg-id="KuriakosCine.pt" tvg-logo="https://i.imgur.com/CZViCwB.jpg" group-title="Movies",Kuriakos Cine (1080p)
-https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Animation;Kids;Religious",Kuriakos Kids (1080p)
-https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KuriakosMusic.pt" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="Music",Kuriakos Music (1080p)
-http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-logo="https://i.imgur.com/xdAW0D5.png" group-title="Religious",Kuriakos TV (1080p)
-https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ManaChurchOnline.pt" tvg-logo="https://i.imgur.com/FRDJSim.png" group-title="Religious",Maná Church Online (1080p) [Not 24/7]
-https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ManaCirkevOnline.pt" tvg-logo="https://i.imgur.com/tYhXeRq.png" group-title="Religious",Maná Cirkev Online (1080p) [Not 24/7]
-https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ManaEgliseOnline.pt" tvg-logo="https://i.imgur.com/xQYly8O.png" group-title="Religious",Maná Église Online (1080p) [Not 24/7]
-https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ManaIglesiaOnline.pt" tvg-logo="https://i.imgur.com/0IUvfcJ.png" group-title="Religious",Maná Iglesia Online (1080p) [Not 24/7]
-https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ManaIgrejaOnline.pt" tvg-logo="https://i.imgur.com/0IUvfcJ.png" group-title="Religious",Maná Igreja Online (1080p) [Not 24/7]
-https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ManaTserkovOnlayn.pt" tvg-logo="https://i.imgur.com/PruXLqS.png" group-title="Religious",Maná Tserkov' Onlayn (1080p) [Not 24/7]
-https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MorangoscomAcucar.pt" tvg-logo="https://i.imgur.com/NRfEs0I.png" group-title="Series",Morangos com Açúcar (1080p)
-https://video-auth2.iol.pt/live_hd2/live_hd2/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Entertainment",MTV Portugal (576p)
-http://176.79.76.155:8000/play/a01x/index.m3u8
-#EXTINF:-1 tvg-id="ONFM.pt" tvg-logo="https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png" group-title="Music",ON FM (720p)
-https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="PeerTVAltoAdige.it" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" group-title="Outdoor;Travel",Peer TV Alto Adige (1280p)
-https://iptv.peer.biz/live/peertv-it.m3u8
-#EXTINF:-1 tvg-id="PeerTVSouthTyrol.it" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png" group-title="Outdoor;Travel",Peer TV South Tyrol (1280p)
-https://iptv.peer.biz/live/peertv-en.m3u8
-#EXTINF:-1 tvg-id="PeerTVSudtirol.it" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" group-title="Outdoor;Travel",Peer TV Südtirol (1080p)
-https://iptv.peer.biz/live/peertv.m3u8
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="https://i.imgur.com/DwziwMY.png" group-title="General",Porto Canal (720p)
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PortoCanal.m3u8
-#EXTINF:-1 tvg-id="RadioSines.pt" tvg-logo="https://i.imgur.com/Oe6F1nL.png" group-title="General",Rádio Sines (720p)
-https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Documentaries
-https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Family
-https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RecordTVEuropa.pt" tvg-logo="https://i.imgur.com/DvxfBTE.png" group-title="General",RecordTV Europa (720p) [Geo-blocked]
-https://live-recordeuropa.visioncdn.com/live/recordeuropa/master.m3u8
-#EXTINF:-1 tvg-id="RTP1.pt" tvg-logo="https://i.imgur.com/w7GV86i.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 1 (720p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP2.pt" tvg-logo="https://i.imgur.com/T6WUqdn.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 2 (720p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-logo="https://i.imgur.com/ohXJmiR.png" group-title="News" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP 3 (720p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/512px-RTP_A%C3%A7ores_%282016%29.svg.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Açores (720p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://i.imgur.com/nJNWTqA.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Madeira (504p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMemoria.pt" tvg-logo="https://i.imgur.com/jCpfdiJ.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Memória (504p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SIC.pt" tvg-logo="https://i.imgur.com/SPMqiDG.png" group-title="General",SIC (1080p)
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-logo="https://i.imgur.com/Gi6Q26M.png" group-title="News",SIC Notícias (1080p) [Geo-blocked]
-https://sicnot.live.impresa.pt/sicnot.m3u8
-#EXTINF:-1 tvg-id="SICNovelas.pt" tvg-logo="https://i.ibb.co/5hQrgqd/SICNovelas.png" group-title="Series",SIC Novelas (720p)
-https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
-#EXTINF:-1 tvg-id="SportTV1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Sport.TV1.png" group-title="Sports",Sport TV1
-http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="General",TV5Monde Europe (1080p) [Geo-blocked]
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-#EXTINF:-1 tvg-id="TVCancaoNova.pt" tvg-logo="https://i.imgur.com/rSmwbkj.png" group-title="Undefined",TV Canção Nova Portugal (720p)
-https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8
-#EXTINF:-1 tvg-id="TVFatima.pt" tvg-logo="https://i.imgur.com/0Nz2GqC.png" group-title="Religious",TV Fátima (1080p)
-https://streamer-b02.videos.sapo.pt/live/santuario/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMana1.pt" tvg-logo="https://i.imgur.com/6jNqpTP.png" group-title="Religious",TV Maná 1 (1080p)
-https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMana2.pt" tvg-logo="https://i.imgur.com/VYNjVov.png" group-title="Religious",TV Maná 2 (1080p)
-https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVManaBrasil.pt" tvg-logo="https://i.imgur.com/AFb712e.png" group-title="Religious",TV Maná Brasil (1080p)
-https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVManaEnglish.pt" tvg-logo="https://i.imgur.com/I66IkCw.png" group-title="Religious",TV Maná English (1080p)
-https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVManaEspanhol.pt" tvg-logo="https://i.imgur.com/sUlrSwP.png" group-title="Religious",TV Maná Español (1080p)
-https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVManaRusskiy.pt" tvg-logo="https://i.imgur.com/fACHqmY.png" group-title="Religious",TV Maná Russkiy (1080p)
-https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-logo="https://i.imgur.com/gK3lRtZ.png" group-title="Undefined",TVI Ficção (480p) [Geo-blocked]
-https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="WayTV.pt" tvg-logo="https://i.ibb.co/gdpvKpS/cropped-Asset-1.png" group-title="Religious",Way TV (1080p)
-http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-#EXTINF:-1 tvg-id="WEBTVPaixaoFM.pt" tvg-logo="https://radiopaixaofm.live/admin/assets/img/logo.png" group-title="Entertainment",WEB TV Paixão FM (360p) [Not 24/7]
-https://stmv2.samcast.com.br/romeu6622/romeu6622/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVMir.ru" tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="Undefined",НТВ Мир
-http://stream02.vnet.am/HTB/mono.m3u8
-#EXTINF:-1 tvg-id="PeretzInternational.ru" tvg-logo="https://i.imgur.com/On6ggLe.png" group-title="Entertainment",Перец
-http://stream01.vnet.am/Perec/mono.m3u8
-#EXTINF:-1 tvg-id="RTRPlanetaEurope.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="General",РТР Планета Евро
-https://player.smotrim.ru/iframe/stream/live_id/4941
+#EXTINF:-1 tvg-id="" tvg-name="##### PT GENERALISTAS #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/PORTUGAL.png" group-title="PT| GENERALISTAS",##### PT GENERALISTAS #####
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1287546
+#EXTINF:-1 tvg-id="" tvg-name="PT| FPTV (NA)" tvg-logo="http://logo.protv.cc/piconsnew/FPTV.png" group-title="PT| GENERALISTAS",PT| FPTV (NA)
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/708370
+#EXTINF:-1 tvg-id="Rtp1.pt" tvg-name="PT| RTP 1 HD" tvg-logo="http://logo.protv.cc/piconsnew/rtp1hd.png" group-title="PT| GENERALISTAS",PT| RTP 1 HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107451
+#EXTINF:-1 tvg-id="Rtp1.pt" tvg-name="PT| RTP 1 HEVC" tvg-logo="http://logo.protv.cc/piconsnew/rtp1hd.png" group-title="PT| GENERALISTAS",PT| RTP 1 HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118450
+#EXTINF:-1 tvg-id="Rtp1.pt" tvg-name="PT| RTP 1" tvg-logo="http://logo.protv.cc/piconsnew/rtp1hd.png" group-title="PT| GENERALISTAS",PT| RTP 1
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107452
+#EXTINF:-1 tvg-id="Rtp2.pt" tvg-name="PT| RTP 2 HD" tvg-logo="http://logo.protv.cc/piconsnew/rtp2hd.png" group-title="PT| GENERALISTAS",PT| RTP 2 HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107449
+#EXTINF:-1 tvg-id="Rtp2.pt" tvg-name="PT| RTP 2 HEVC" tvg-logo="http://logo.protv.cc/piconsnew/rtp2hd.png" group-title="PT| GENERALISTAS",PT| RTP 2 HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118449
+#EXTINF:-1 tvg-id="Rtp2.pt" tvg-name="PT| RTP 2" tvg-logo="http://logo.protv.cc/piconsnew/rtp2hd.png" group-title="PT| GENERALISTAS",PT| RTP 2
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107450
+#EXTINF:-1 tvg-id="Sic.pt" tvg-name="PT| SIC HD" tvg-logo="http://logo.protv.cc/piconsnew/sichd.png" group-title="PT| GENERALISTAS",PT| SIC HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107442
+#EXTINF:-1 tvg-id="Sic.pt" tvg-name="PT| SIC HEVC" tvg-logo="http://logo.protv.cc/piconsnew/sic.png" group-title="PT| GENERALISTAS",PT| SIC HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118448
+#EXTINF:-1 tvg-id="Sic.pt" tvg-name="PT| SIC (NA)" tvg-logo="http://logo.protv.cc/piconsnew/sic.png" group-title="PT| GENERALISTAS",PT| SIC (NA)
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/101868
+#EXTINF:-1 tvg-id="Sic.pt" tvg-name="PT| SIC" tvg-logo="http://logo.protv.cc/piconsnew/sic.png" group-title="PT| GENERALISTAS",PT| SIC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107444
+#EXTINF:-1 tvg-id="" tvg-name="PT| SIC INTERNATIONAL" tvg-logo="http://logo.protv.cc/piconsnew/sicinternacional.png" group-title="PT| GENERALISTAS",PT| SIC INTERNATIONAL
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/863881
+#EXTINF:-1 tvg-id="" tvg-name="PT| SIC NOVELAS" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SIC-NOVELAS.png" group-title="PT| GENERALISTAS",PT| SIC NOVELAS
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1430557
+#EXTINF:-1 tvg-id="Tvi.pt" tvg-name="PT| TVI HD" tvg-logo="http://logo.protv.cc/piconsnew/tvi.png" group-title="PT| GENERALISTAS",PT| TVI HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107525
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="PT| TVI HEVC" tvg-logo="http://logo.protv.cc/piconsnew/tvi.png" group-title="PT| GENERALISTAS",PT| TVI HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118467
+#EXTINF:-1 tvg-id="Tvi.pt" tvg-name="PT| TVI (NA)" tvg-logo="http://logo.protv.cc/piconsnew/tvi.png" group-title="PT| GENERALISTAS",PT| TVI (NA)
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/101869
+#EXTINF:-1 tvg-id="Tvi.pt" tvg-name="PT| TVI" tvg-logo="http://logo.protv.cc/piconsnew/tvi.png" group-title="PT| GENERALISTAS",PT| TVI
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107417
+#EXTINF:-1 tvg-id="Tvi.pt" tvg-name="PT| TVI INTERNATIONAL" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/TVI-INTERNATIONAL.png" group-title="PT| GENERALISTAS",PT| TVI INTERNATIONAL
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107528
+#EXTINF:-1 tvg-id="" tvg-name="PT| TVI AFRICA" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TVI-AFRICA.png" group-title="PT| GENERALISTAS",PT| TVI AFRICA
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1430558
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="PT| TVI FICCAO FHD" tvg-logo="http://logo.protv.cc/piconsnew/tvificcao.png" group-title="PT| GENERALISTAS",PT| TVI FICCAO FHD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/378345
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="PT| TVI FICCAO" tvg-logo="http://logo.protv.cc/piconsnew/tvificcao.png" group-title="PT| GENERALISTAS",PT| TVI FICCAO
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107415
+#EXTINF:-1 tvg-id="TviReality.pt" tvg-name="PT| TVI REALITY HD" tvg-logo="http://logo.protv.cc/piconsnew/tvireality.png" group-title="PT| GENERALISTAS",PT| TVI REALITY HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/122490
+#EXTINF:-1 tvg-id="TviReality.pt" tvg-name="PT| TVI REALITY" tvg-logo="http://logo.protv.cc/piconsnew/tvireality.png" group-title="PT| GENERALISTAS",PT| TVI REALITY
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107414
+#EXTINF:-1 tvg-id="" tvg-name="PT| SIC MULHER HD" tvg-logo="http://logo.protv.cc/piconsnew/sicmulher.png" group-title="PT| GENERALISTAS",PT| SIC MULHER HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/379383
+#EXTINF:-1 tvg-id="SicMulher.pt" tvg-name="PT| SIC MULHER" tvg-logo="http://logo.protv.cc/piconsnew/sicmulher.png" group-title="PT| GENERALISTAS",PT| SIC MULHER
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107440
+#EXTINF:-1 tvg-id="" tvg-name="PT| SIC CARAS FHD" tvg-logo="http://logo.protv.cc/piconsnew/siccaras.png" group-title="PT| GENERALISTAS",PT| SIC CARAS FHD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/379384
+#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="PT| SIC CARAS" tvg-logo="http://logo.protv.cc/piconsnew/siccaras.png" group-title="PT| GENERALISTAS",PT| SIC CARAS
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107443
+#EXTINF:-1 tvg-id="SicRadical.pt" tvg-name="PT| SIC RADICAL FHD" tvg-logo="http://logo.protv.cc/piconsnew/sicradical.png" group-title="PT| GENERALISTAS",PT| SIC RADICAL FHD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/379382
+#EXTINF:-1 tvg-id="SicRadical.pt" tvg-name="PT| SIC RADICAL" tvg-logo="http://logo.protv.cc/piconsnew/sicradical.png" group-title="PT| GENERALISTAS",PT| SIC RADICAL
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107438
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="PT| CANAL Q" tvg-logo="http://logo.protv.cc/piconsnew/canalq.png" group-title="PT| GENERALISTAS",PT| CANAL Q
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107508
+#EXTINF:-1 tvg-id="Porto.pt" tvg-name="PT| PORTO CANAL HD" tvg-logo="http://logo.protv.cc/piconsnew/portocanal.png" group-title="PT| GENERALISTAS",PT| PORTO CANAL HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/368056
+#EXTINF:-1 tvg-id="Porto.pt" tvg-name="PT| PORTO CANAL" tvg-logo="http://logo.protv.cc/piconsnew/portocanal.png" group-title="PT| GENERALISTAS",PT| PORTO CANAL
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107454
+#EXTINF:-1 tvg-id="RtpAcores.pt" tvg-name="PT| RTP ACORES" tvg-logo="http://logo.protv.cc/piconsnew/rtpacores.png" group-title="PT| GENERALISTAS",PT| RTP ACORES
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107447
+#EXTINF:-1 tvg-id="RtpAfrica.pt" tvg-name="PT| RTP AFRICA" tvg-logo="http://logo.protv.cc/piconsnew/rtpafrica.png" group-title="PT| GENERALISTAS",PT| RTP AFRICA
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107453
+#EXTINF:-1 tvg-id="RtpMemoria.pt" tvg-name="PT| RTP MEMORIA" tvg-logo="http://logo.protv.cc/piconsnew/rtpmemoria.png" group-title="PT| GENERALISTAS",PT| RTP MEMORIA
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107445
+#EXTINF:-1 tvg-id="RTPInternacional.za" tvg-name="PT| RTP INTERNACIONAL HD" tvg-logo="http://logo.protv.cc/piconsnew/rtpinternacional.png" group-title="PT| GENERALISTAS",PT| RTP INTERNACIONAL HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/970733
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="PT| RTP INT. (NA)" tvg-logo="http://logo.protv.cc/piconsnew/rtpinternacional.png" group-title="PT| GENERALISTAS",PT| RTP INT. (NA)
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107410
+#EXTINF:-1 tvg-id="" tvg-name="PT| RTP INT. (AFR)" tvg-logo="http://logo.protv.cc/piconsnew/rtpinternacional.png" group-title="PT| GENERALISTAS",PT| RTP INT. (AFR)
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/970725
+#EXTINF:-1 tvg-id="RtpMadeira.pt" tvg-name="PT| RTP MADEIRA" tvg-logo="http://logo.protv.cc/piconsnew/rtpmadeira.png" group-title="PT| GENERALISTAS",PT| RTP MADEIRA
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107446
+#EXTINF:-1 tvg-id="" tvg-name="PT| TVI REALITY  MOSAICO" tvg-logo="http://logo.protv.cc/piconsnew/tvirealitymosaico.png" group-title="PT| GENERALISTAS",PT| TVI REALITY  MOSAICO
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/378350
+#EXTINF:-1 tvg-id="" tvg-name="PT| S PLUS HD" tvg-logo="http://logo.protv.cc/piconsnew/splus.png" group-title="PT| GENERALISTAS",PT| S PLUS HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/378343
+#EXTINF:-1 tvg-id="" tvg-name="PT| CASA E COZINHA HD" tvg-logo="http://logo.protv.cc/piconsnew/casaecozinha.png" group-title="PT| GENERALISTAS",PT| CASA E COZINHA HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/379381
+#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="PT| AZORES TV" tvg-logo="http://logo.protv.cc/piconsnew/AZORES-TV.png" group-title="PT| GENERALISTAS",PT| AZORES TV
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1112663
+#EXTINF:-1 tvg-id="" tvg-name="##### PT NOTICIAS #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/PORTUGAL.png" group-title="PT| NOTICIAS",##### PT NOTICIAS #####
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118429
+#EXTINF:-1 tvg-id="SicNoticias.pt" tvg-name="PT| SIC NOTICIAS HD" tvg-logo="http://logo.protv.cc/piconsnew/sicnoticias.png" group-title="PT| NOTICIAS",PT| SIC NOTICIAS HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/368055
+#EXTINF:-1 tvg-id="SicNoticias.pt" tvg-name="PT| SIC NOTICIAS" tvg-logo="http://logo.protv.cc/piconsnew/sicnoticias.png" group-title="PT| NOTICIAS",PT| SIC NOTICIAS
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107439
+#EXTINF:-1 tvg-id="Tvi24.pt" tvg-name="PT| CNN PORTUGAL HD" tvg-logo="http://logo.protv.cc/piconsnew/cnnportugal.png" group-title="PT| NOTICIAS",PT| CNN PORTUGAL HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/388012
+#EXTINF:-1 tvg-id="Tvi24.pt" tvg-name="PT| CNN PORTUGAL" tvg-logo="http://logo.protv.cc/piconsnew/cnnportugal.png" group-title="PT| NOTICIAS",PT| CNN PORTUGAL
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107416
+#EXTINF:-1 tvg-id="Cmtv.pt" tvg-name="PT| CMTV HD" tvg-logo="http://logo.protv.cc/piconsnew/cmtv.png" group-title="PT| NOTICIAS",PT| CMTV HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/368054
+#EXTINF:-1 tvg-id="Cmtv.pt" tvg-name="PT| CMTV" tvg-logo="http://logo.protv.cc/piconsnew/cmtvhd.png" group-title="PT| NOTICIAS",PT| CMTV
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107503
+#EXTINF:-1 tvg-id="Rtp3.pt" tvg-name="PT| RTP 3 HD" tvg-logo="http://logo.protv.cc/piconsnew/rtp3.png" group-title="PT| NOTICIAS",PT| RTP 3 HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107529
+#EXTINF:-1 tvg-id="Rtp3.pt" tvg-name="PT| RTP 3" tvg-logo="http://logo.protv.cc/piconsnew/rtp3.png" group-title="PT| NOTICIAS",PT| RTP 3
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107448
+#EXTINF:-1 tvg-id="Artv.pt" tvg-name="PT| ARTV" tvg-logo="http://logo.protv.cc/piconsnew/artv.png" group-title="PT| NOTICIAS",PT| ARTV
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107519
+#EXTINF:-1 tvg-id="" tvg-name="PT| PARLAMENTO" tvg-logo="http://logo.protv.cc/piconsnew/parlamento.png" group-title="PT| NOTICIAS",PT| PARLAMENTO
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107457
+#EXTINF:-1 tvg-id="TVGalicia.es" tvg-name="PT| TV GALICIA" tvg-logo="http://logo.protv.cc/piconsnew/tvgalicia.png" group-title="PT| NOTICIAS",PT| TV GALICIA
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107425
+#EXTINF:-1 tvg-id="" tvg-name="PT| TVE 24H" tvg-logo="http://logo.protv.cc/piconsnew/tve24h.png" group-title="PT| NOTICIAS",PT| TVE 24H
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107419
+#EXTINF:-1 tvg-id="" tvg-name="PT| TVE INTERNATIONAL" tvg-logo="http://logo.protv.cc/piconsnew/tveinternacional.png" group-title="PT| NOTICIAS",PT| TVE INTERNATIONAL
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107418
+#EXTINF:-1 tvg-id="CNBC.uk" tvg-name="PT| CNBC" tvg-logo="http://logo.protv.cc/piconsnew/cnbc.png" group-title="PT| NOTICIAS",PT| CNBC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107502
+#EXTINF:-1 tvg-id="BloombergTV.mx" tvg-name="PT| BLOOMBERG" tvg-logo="http://logo.protv.cc/piconsnew/bloomberg.png" group-title="PT| NOTICIAS",PT| BLOOMBERG
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107512
+#EXTINF:-1 tvg-id="EuroChannel.pt" tvg-name="PT| EURONEWS HD" tvg-logo="http://logo.protv.cc/piconsnew/euronews.png" group-title="PT| NOTICIAS",PT| EURONEWS HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107489
+#EXTINF:-1 tvg-id="" tvg-name="##### PT DESPORTO #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/PORTUGAL.png" group-title="PT| DESPORTO",##### PT DESPORTO #####
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118430
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="PT| CANAL 11 HD" tvg-logo="http://logo.protv.cc/piconsnew/canal11hd.png" group-title="PT| DESPORTO",PT| CANAL 11 HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107524
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="PT| CANAL 11 HEVC" tvg-logo="http://logo.protv.cc/piconsnew/canal11hd.png" group-title="PT| DESPORTO",PT| CANAL 11 HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118466
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="PT| SPORT TV + HD" tvg-logo="http://logo.protv.cc/piconsnew/sporttvplus.png" group-title="PT| DESPORTO",PT| SPORT TV + HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107437
+#EXTINF:-1 tvg-id="SportTVPlus.pt" tvg-name="PT| SPORT TV+ HEVC" tvg-logo="http://logo.protv.cc/piconsnew/sporttvplus.png" group-title="PT| DESPORTO",PT| SPORT TV+ HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/368058
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT| SPORT TV 1 HD" tvg-logo="http://logo.protv.cc/piconsnew/sporttv1.png" group-title="PT| DESPORTO",PT| SPORT TV 1 HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107436
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT| SPORT TV 1 HEVC" tvg-logo="http://logo.protv.cc/piconsnew/sporttv1.png" group-title="PT| DESPORTO",PT| SPORT TV 1 HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118447
+#EXTINF:-1 tvg-id="SportTV1.pt" tvg-name="PT| SPORT TV 1 SD" tvg-logo="http://logo.protv.cc/piconsnew/sporttv1.png" group-title="PT| DESPORTO",PT| SPORT TV 1 SD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/148671
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="PT| SPORT TV 2 HD" tvg-logo="http://logo.protv.cc/piconsnew/sporttv2.png" group-title="PT| DESPORTO",PT| SPORT TV 2 HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107435
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="PT| SPORT TV 2 HEVC" tvg-logo="http://logo.protv.cc/piconsnew/sporttv2.png" group-title="PT| DESPORTO",PT| SPORT TV 2 HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118446
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="PT| SPORT TV 2 SD" tvg-logo="http://logo.protv.cc/piconsnew/sporttv2.png" group-title="PT| DESPORTO",PT| SPORT TV 2 SD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/148670
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT| SPORT TV 3 HD" tvg-logo="http://logo.protv.cc/piconsnew/sporttv3.png" group-title="PT| DESPORTO",PT| SPORT TV 3 HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107434
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT| SPORT TV 3 HEVC" tvg-logo="http://logo.protv.cc/piconsnew/sporttv3.png" group-title="PT| DESPORTO",PT| SPORT TV 3 HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118445
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="PT| SPORT TV 3 SD" tvg-logo="http://logo.protv.cc/piconsnew/sporttv3.png" group-title="PT| DESPORTO",PT| SPORT TV 3 SD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/148669
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT| SPORT TV 4 HD" tvg-logo="http://logo.protv.cc/piconsnew/sporttv4.png" group-title="PT| DESPORTO",PT| SPORT TV 4 HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107433
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="PT| SPORT TV 4 SD" tvg-logo="http://logo.protv.cc/piconsnew/sporttv4.png" group-title="PT| DESPORTO",PT| SPORT TV 4 SD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/148668
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="PT| SPORT TV 5 HD" tvg-logo="http://logo.protv.cc/piconsnew/sporttv5.png" group-title="PT| DESPORTO",PT| SPORT TV 5 HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/148667
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="PT| SPORT TV 6 FHD" tvg-logo="http://logo.protv.cc/piconsnew/sporttv6hd.png" group-title="PT| DESPORTO",PT| SPORT TV 6 FHD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/712739
+#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="PT| ELEVEN SPORTS 1 HD" tvg-logo="http://logo.protv.cc/piconsnew/elevensports1.png" group-title="PT| DESPORTO",PT| ELEVEN SPORTS 1 HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107495
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="PT| ELEVEN SPORTS 1 HEVC" tvg-logo="http://logo.protv.cc/piconsnew/elevensports1.png" group-title="PT| DESPORTO",PT| ELEVEN SPORTS 1 HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118459
+#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="PT| ELEVEN SPORTS 2 HD" tvg-logo="http://logo.protv.cc/piconsnew/elevensports2.png" group-title="PT| DESPORTO",PT| ELEVEN SPORTS 2 HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107494
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="PT| ELEVEN SPORTS 2 HEVC" tvg-logo="http://logo.protv.cc/piconsnew/elevensports2.png" group-title="PT| DESPORTO",PT| ELEVEN SPORTS 2 HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118458
+#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="PT| ELEVEN SPORTS 3 HD" tvg-logo="http://logo.protv.cc/piconsnew/elevensports3.png" group-title="PT| DESPORTO",PT| ELEVEN SPORTS 3 HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/122484
+#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="PT| ELEVEN SPORTS 3" tvg-logo="http://logo.protv.cc/piconsnew/elevensports3.png" group-title="PT| DESPORTO",PT| ELEVEN SPORTS 3
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107493
+#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="PT| ELEVEN SPORTS 4 HD" tvg-logo="http://logo.protv.cc/piconsnew/elevensports4.png" group-title="PT| DESPORTO",PT| ELEVEN SPORTS 4 HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/122485
+#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="PT| ELEVEN SPORTS 4" tvg-logo="http://logo.protv.cc/piconsnew/elevensports4.png" group-title="PT| DESPORTO",PT| ELEVEN SPORTS 4
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107492
+#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="PT| ELEVEN SPORTS 5 HD" tvg-logo="http://logo.protv.cc/piconsnew/elevensports5.png" group-title="PT| DESPORTO",PT| ELEVEN SPORTS 5 HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/122486
+#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="PT| ELEVEN SPORTS 5" tvg-logo="http://logo.protv.cc/piconsnew/elevensports5.png" group-title="PT| DESPORTO",PT| ELEVEN SPORTS 5
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107491
+#EXTINF:-1 tvg-id="ElevenSports6.pt" tvg-name="PT| ELEVEN SPORTS 6" tvg-logo="http://logo.protv.cc/piconsnew/elevensports6.png" group-title="PT| DESPORTO",PT| ELEVEN SPORTS 6
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107490
+#EXTINF:-1 tvg-id="" tvg-name="PT| BENFICA TV HD" tvg-logo="http://logo.protv.cc/piconsnew/btvhd.png" group-title="PT| DESPORTO",PT| BENFICA TV HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/983567
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="PT| BTV 1 HD" tvg-logo="http://logo.protv.cc/piconsnew/btv1.png" group-title="PT| DESPORTO",PT| BTV 1 HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107511
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-name="PT| BTV HEVC" tvg-logo="http://logo.protv.cc/piconsnew/btvhd.png" group-title="PT| DESPORTO",PT| BTV HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118461
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="PT| SPORTING TV" tvg-logo="http://logo.protv.cc/piconsnew/sportingtv.png" group-title="PT| DESPORTO",PT| SPORTING TV
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107430
+#EXTINF:-1 tvg-id="" tvg-name="PT| A BOLA TV HD" tvg-logo="http://logo.protv.cc/piconsnew/abolatv.png" group-title="PT| DESPORTO",PT| A BOLA TV HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107522
+#EXTINF:-1 tvg-id="PFC.pt" tvg-name="PT| PFC" tvg-logo="http://logo.protv.cc/piconsnew/pfc.png" group-title="PT| NOTICIAS",PT| PFC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107456
+#EXTINF:-1 tvg-id="PFC.pt" tvg-name="PT| PFC (NA)" tvg-logo="http://logo.protv.cc/piconsnew/pfc.png" group-title="PT| NOTICIAS",PT| PFC (NA)
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/156351
+#EXTINF:-1 tvg-id="NBA.pt" tvg-name="PT| SPORT TV NBA HD" tvg-logo="http://logo.protv.cc/piconsnew/sporttvnba.png" group-title="PT| DESPORTO",PT| SPORT TV NBA HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107431
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV NBA HEVC" tvg-logo="http://logo.protv.cc/piconsnew/sporttvnba.png" group-title="PT| DESPORTO",PT| SPORT TV NBA HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118444
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="PT| EUROSPORT 1 HD" tvg-logo="http://logo.protv.cc/piconsnew/eurosport1.png" group-title="PT| DESPORTO",PT| EUROSPORT 1 HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107488
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="PT| EUROSPORT 1 HEVC" tvg-logo="http://logo.protv.cc/piconsnew/eurosport1.png" group-title="PT| DESPORTO",PT| EUROSPORT 1 HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118457
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="PT| EUROSPORT 2" tvg-logo="http://logo.protv.cc/piconsnew/eurosport2.png" group-title="PT| DESPORTO",PT| EUROSPORT 2
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107487
+#EXTINF:-1 tvg-id="FuelTV.pt" tvg-name="PT| FUEL TV" tvg-logo="http://logo.protv.cc/piconsnew/fueltv.png" group-title="PT| DESPORTO",PT| FUEL TV
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107479
+#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="PT| MOTORVISION" tvg-logo="http://logo.protv.cc/piconsnew/motorvision.png" group-title="PT| DESPORTO",PT| MOTORVISION
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107468
+#EXTINF:-1 tvg-id="" tvg-name="##### PT FILMES E SÉRIES #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/PORTUGAL.png" group-title="PT| FILMES E SÉRIES",##### PT FILMES E SÉRIES #####
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118431
+#EXTINF:-1 tvg-id="Tvcine1.pt" tvg-name="PT| TVCINE TOP HD" tvg-logo="http://logo.protv.cc/piconsnew/tvcinetop.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE TOP HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107423
+#EXTINF:-1 tvg-id="Tvcine1.pt" tvg-name="PT| TVCINE TOP HEVC" tvg-logo="http://logo.protv.cc/piconsnew/tvcinetop.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE TOP HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118442
+#EXTINF:-1 tvg-id="TVCineEDITION.pt" tvg-name="PT| TVCINE EDITION HD" tvg-logo="http://logo.protv.cc/piconsnew/tvcineedition.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE EDITION HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107422
+#EXTINF:-1 tvg-id="" tvg-name="PT| TVCINE EDITION HEVC" tvg-logo="http://logo.protv.cc/piconsnew/tvcineedition.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE EDITION HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118441
+#EXTINF:-1 tvg-id="TVCineEMOTION.pt" tvg-name="PT| TVCINE EMOTION HD" tvg-logo="http://logo.protv.cc/piconsnew/tvcineemotion.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE EMOTION HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107421
+#EXTINF:-1 tvg-id="" tvg-name="PT| TVCINE EMOTION HEVC" tvg-logo="http://logo.protv.cc/piconsnew/tvcineemotion.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE EMOTION HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118440
+#EXTINF:-1 tvg-id="TVCineACTION.pt" tvg-name="PT| TVCINE ACTION HD" tvg-logo="http://logo.protv.cc/piconsnew/tvcineaction.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE ACTION HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107420
+#EXTINF:-1 tvg-id="TVCineACTION.pt" tvg-name="PT| TVCINE ACTION HEVC" tvg-logo="http://logo.protv.cc/piconsnew/tvcineaction.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE ACTION HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118439
+#EXTINF:-1 tvg-id="NosStudios.pt" tvg-name="PT| NOS STUDIOS HD" tvg-logo="http://logo.protv.cc/piconsnew/nosstudios.png" group-title="PT| FILMES E SÉRIES",PT| NOS STUDIOS HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107459
+#EXTINF:-1 tvg-id="NosStudios.pt" tvg-name="PT| NOS STUDIOS HEVC" tvg-logo="http://logo.protv.cc/piconsnew/nosstudios.png" group-title="PT| FILMES E SÉRIES",PT| NOS STUDIOS HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118451
+#EXTINF:-1 tvg-id="CanalHollywood.pt" tvg-name="PT| HOLLYWOOD HD" tvg-logo="http://logo.protv.cc/piconsnew/hollywood.png" group-title="PT| FILMES E SÉRIES",PT| HOLLYWOOD HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107475
+#EXTINF:-1 tvg-id="CanalHollywood.pt" tvg-name="PT| HOLLYWOOD HEVC" tvg-logo="http://logo.protv.cc/piconsnew/hollywood.png" group-title="PT| FILMES E SÉRIES",PT| HOLLYWOOD HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118453
+#EXTINF:-1 tvg-id="" tvg-name="PT| CINEMUNDO HD" tvg-logo="http://logo.protv.cc/piconsnew/cinemundo.png" group-title="PT| FILMES E SÉRIES",PT| CINEMUNDO HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107504
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="PT| AMC HD" tvg-logo="http://logo.protv.cc/piconsnew/amc.png" group-title="PT| FILMES E SÉRIES",PT| AMC HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107520
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="PT| AMC HEVC" tvg-logo="http://logo.protv.cc/piconsnew/amc.png" group-title="PT| FILMES E SÉRIES",PT| AMC HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/122487
+#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="PT| STAR MOVIES" tvg-logo="http://logo.protv.cc/piconsnew/foxmovies.png" group-title="PT| FILMES E SÉRIES",PT| STAR MOVIES
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107482
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-name="PT| STAR LIFE HD" tvg-logo="http://logo.protv.cc/piconsnew/foxlife.png" group-title="PT| FILMES E SÉRIES",PT| STAR LIFE HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107413
+#EXTINF:-1 tvg-id="Fox.pt" tvg-name="PT| STAR HD" tvg-logo="http://logo.protv.cc/piconsnew/fox.png" group-title="PT| FILMES E SÉRIES",PT| STAR HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107484
+#EXTINF:-1 tvg-id="Fox.pt" tvg-name="PT| STAR HEVC" tvg-logo="http://logo.protv.cc/piconsnew/fox.png" group-title="PT| FILMES E SÉRIES",PT| STAR HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118455
+#EXTINF:-1 tvg-id="FoxCrime.pt" tvg-name="PT| STAR CRIME HD" tvg-logo="http://logo.protv.cc/piconsnew/foxcrime.png" group-title="PT| FILMES E SÉRIES",PT| STAR CRIME HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107485
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="PT| STAR CRIME HEVC" tvg-logo="http://logo.protv.cc/piconsnew/foxcrime.png" group-title="PT| FILMES E SÉRIES",PT| STAR CRIME HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118456
+#EXTINF:-1 tvg-id="FoxLife.pt" tvg-name="PT| STAR LIFE HEVC" tvg-logo="http://logo.protv.cc/piconsnew/foxlife.png" group-title="PT| FILMES E SÉRIES",PT| STAR LIFE HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118454
+#EXTINF:-1 tvg-id="FoxComedy.pt" tvg-name="PT| STAR COMEDY" tvg-logo="http://logo.protv.cc/piconsnew/foxcomedy.png" group-title="PT| FILMES E SÉRIES",PT| STAR COMEDY
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107486
+#EXTINF:-1 tvg-id="FoxComedy.pt" tvg-name="PT| STAR COMEDY HD" tvg-logo="http://logo.protv.cc/piconsnew/foxcomedy.png" group-title="PT| FILMES E SÉRIES",PT| STAR COMEDY HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/951549
+#EXTINF:-1 tvg-id="AXN.pt" tvg-name="PT| AXN HD" tvg-logo="http://logo.protv.cc/piconsnew/axn.png" group-title="PT| FILMES E SÉRIES",PT| AXN HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107517
+#EXTINF:-1 tvg-id="axn.pt" tvg-name="PT| AXN HEVC" tvg-logo="http://logo.protv.cc/piconsnew/axn.png" group-title="PT| FILMES E SÉRIES",PT| AXN HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118463
+#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="PT| AXN WHITE HEVC" tvg-logo="http://logo.protv.cc/piconsnew/axnwhite.png" group-title="PT| FILMES E SÉRIES",PT| AXN WHITE HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118462
+#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="PT| AXN WHITE HD" tvg-logo="http://logo.protv.cc/piconsnew/axnwhite.png" group-title="PT| FILMES E SÉRIES",PT| AXN WHITE HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107516
+#EXTINF:-1 tvg-id="AXNMovies.pt" tvg-name="PT| AXN MOVIES HD" tvg-logo="http://logo.protv.cc/piconsnew/axnmovieshd.png" group-title="PT| FILMES E SÉRIES",PT| AXN MOVIES HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1069313
+#EXTINF:-1 tvg-id="Syfy.pt" tvg-name="PT| SYFY HD" tvg-logo="http://logo.protv.cc/piconsnew/syfy.png" group-title="PT| FILMES E SÉRIES",PT| SYFY HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/122488
+#EXTINF:-1 tvg-id="Syfy.pt" tvg-name="PT| SYFY" tvg-logo="http://logo.protv.cc/piconsnew/syfy.png" group-title="PT| FILMES E SÉRIES",PT| SYFY
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107429
+#EXTINF:-1 tvg-id="" tvg-name="PT| TVA HD" tvg-logo="http://logo.protv.cc/piconsnew/tva.png" group-title="PT| FILMES E SÉRIES",PT| TVA HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1058186
+#EXTINF:-1 tvg-id="" tvg-name="##### PT EXCLUSIVO #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/PORTUGAL.png" group-title="PT| EXCLUSIVO",##### PT EXCLUSIVO #####
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/378327
+#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE NETFLIX 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/NETFLIX.png" group-title="PT| EXCLUSIVO",PT| FILMES DE NETFLIX 1 FHD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1028885
+#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE NETFLIX 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/NETFLIX.png" group-title="PT| EXCLUSIVO",PT| FILMES DE NETFLIX 2 FHD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1028886
+#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE PRIME 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/PRIME.png" group-title="PT| EXCLUSIVO",PT| FILMES DE PRIME 1 FHD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1028887
+#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE PRIME 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/PRIME.png" group-title="PT| EXCLUSIVO",PT| FILMES DE PRIME 2 FHD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1028888
+#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE DISNEY 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/DISNEY.png" group-title="PT| EXCLUSIVO",PT| FILMES DE DISNEY 1 FHD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1028878
+#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE DISNEY 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/DISNEY.png" group-title="PT| EXCLUSIVO",PT| FILMES DE DISNEY 2 FHD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1028879
+#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE APPLE 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/APPLE.png" group-title="PT| EXCLUSIVO",PT| FILMES DE APPLE 1 FHD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1028874
+#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE APPLE 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/APPLE.png" group-title="PT| EXCLUSIVO",PT| FILMES DE APPLE 2 FHD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1028875
+#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE HBO FHD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/HBO.png" group-title="PT| EXCLUSIVO",PT| FILMES DE HBO FHD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1028884
+#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE AÇÃO 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/ACTION.png" group-title="PT| EXCLUSIVO",PT| FILMES DE AÇÃO 1 FHD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1028870
+#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE AÇÃO 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/ACTION.png" group-title="PT| EXCLUSIVO",PT| FILMES DE AÇÃO 2 FHD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1028871
+#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE COMÉDIA 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/COMEDY.png" group-title="PT| EXCLUSIVO",PT| FILMES DE COMÉDIA 1 FHD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1028876
+#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE COMÉDIA 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/COMEDY.png" group-title="PT| EXCLUSIVO",PT| FILMES DE COMÉDIA 2 FHD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1028877
+#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE ANIMAÇÃO 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/KIDS.png" group-title="PT| EXCLUSIVO",PT| FILMES DE ANIMAÇÃO 1 FHD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1028872
+#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE ANIMAÇÃO 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/KIDS.png" group-title="PT| EXCLUSIVO",PT| FILMES DE ANIMAÇÃO 2 FHD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1028873
+#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE TERROR FHD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/HORROR.png" group-title="PT| EXCLUSIVO",PT| FILMES DE TERROR FHD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1028889
+#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE FICÇÃO FHD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/SCIENCE.png" group-title="PT| EXCLUSIVO",PT| FILMES DE FICÇÃO FHD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1028882
+#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE HARRY POTTER FHD" tvg-logo="http://logo.protv.cc/picons/logos/PORTUGAL/HARRY-POTTER.png" group-title="PT| EXCLUSIVO",PT| FILMES DE HARRY POTTER FHD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1028883
+#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE DRAMÁTICA FHD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/DRAMA.png" group-title="PT| EXCLUSIVO",PT| FILMES DE DRAMÁTICA FHD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1028881
+#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE DOCUMENTÁRIA FHD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/DOCUMENTARY.png" group-title="PT| EXCLUSIVO",PT| FILMES DE DOCUMENTÁRIA FHD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1028880
+#EXTINF:-1 tvg-id="" tvg-name="PT|  CINEMA AÇÃO (EX)" tvg-logo="http://logo.protv.cc/picons/logos/netflix.png" group-title="PT| EXCLUSIVO",PT|  CINEMA AÇÃO (EX)
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/378324
+#EXTINF:-1 tvg-id="" tvg-name="PT| JOAO KLEBER (EX)" tvg-logo="http://logo.protv.cc/piconsnew/JOAO-KLEBER.jpeg" group-title="PT| EXCLUSIVO",PT| JOAO KLEBER (EX)
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/425321
+#EXTINF:-1 tvg-id="" tvg-name="PT| FOLCLORE-DESGARRADAS (EX)" tvg-logo="http://logo.protv.cc/piconsnew/FOLCLORE-PORTUGAL.jpg" group-title="PT| EXCLUSIVO",PT| FOLCLORE-DESGARRADAS (EX)
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/425320
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="PT| FICÇÃO CIENTÍFICA (EX)" tvg-logo="http://logo.protv.cc/piconsnew/tvificcao.png" group-title="PT| EXCLUSIVO",PT| FICÇÃO CIENTÍFICA (EX)
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/425319
+#EXTINF:-1 tvg-id="" tvg-name="PT| APAIXONADOS POR SERIES (EX)" tvg-logo="http://logo.protv.cc/piconsnew/APAIXONADOS-POR-SERIES.png" group-title="PT| EXCLUSIVO",PT| APAIXONADOS POR SERIES (EX)
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/425317
+#EXTINF:-1 tvg-id="" tvg-name="PT| LOCALVISAO HD" tvg-logo="http://logo.protv.cc/piconsnew/localvisaotvhd.png" group-title="PT| EXCLUSIVO",PT| LOCALVISAO HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/425316
+#EXTINF:-1 tvg-id="" tvg-name="##### PT DOCUMENTARIOS #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/PORTUGAL.png" group-title="PT| CULTURA",##### PT DOCUMENTARIOS #####
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118432
+#EXTINF:-1 tvg-id="NatGeo.pt" tvg-name="PT| NAT GEO HD" tvg-logo="http://logo.protv.cc/piconsnew/natgeo.png" group-title="PT| CULTURA",PT| NAT GEO HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107465
+#EXTINF:-1 tvg-id="NatGeo.pt" tvg-name="PT| NAT GEO HEVC" tvg-logo="http://logo.protv.cc/piconsnew/natgeo.png" group-title="PT| CULTURA",PT| NAT GEO HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118452
+#EXTINF:-1 tvg-id="NatGeoWild.pt" tvg-name="PT| NAT GEO WILD" tvg-logo="http://logo.protv.cc/piconsnew/natgeowild.png" group-title="PT| CULTURA",PT| NAT GEO WILD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107464
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT| DISCOVERY HD" tvg-logo="http://logo.protv.cc/piconsnew/discoverychannel.png" group-title="PT| CULTURA",PT| DISCOVERY HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107499
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-name="PT| DISCOVERY HEVC" tvg-logo="http://logo.protv.cc/piconsnew/discovery.png" group-title="PT| CULTURA",PT| DISCOVERY HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118460
+#EXTINF:-1 tvg-id="DiscoveryChannel.pt" tvg-name="PT| DISCOVERY CHANNEL" tvg-logo="http://logo.protv.cc/piconsnew/discoverychannel.png" group-title="PT| CULTURA",PT| DISCOVERY CHANNEL
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107500
+#EXTINF:-1 tvg-id="CrimeInvestigation.pt" tvg-name="PT| ID HD" tvg-logo="http://logo.protv.cc/piconsnew/id.png" group-title="PT| CULTURA",PT| ID HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107474
+#EXTINF:-1 tvg-id="HistoryChannel.pt" tvg-name="PT| HISTORIA" tvg-logo="http://logo.protv.cc/piconsnew/historia.png" group-title="PT| CULTURA",PT| HISTORIA
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107476
+#EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="PT| ODISSEIA" tvg-logo="http://logo.protv.cc/piconsnew/odisseia.png" group-title="PT| CULTURA",PT| ODISSEIA
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107458
+#EXTINF:-1 tvg-id="CrimeInvestigation.pt" tvg-name="PT| CRIME INVESTIGATION" tvg-logo="http://logo.protv.cc/piconsnew/crimeinvestigation.png" group-title="PT| CULTURA",PT| CRIME INVESTIGATION
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107501
+#EXTINF:-1 tvg-id="CacaEPesca.pt" tvg-name="PT| CACEA E PESCA" tvg-logo="http://logo.protv.cc/piconsnew/cacaepesca.png" group-title="PT| CULTURA",PT| CACEA E PESCA
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107510
+#EXTINF:-1 tvg-id="" tvg-name="##### PT  CRIANCAS #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/PORTUGAL.png" group-title="PT| CRIANCAS",##### PT  CRIANCAS #####
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118433
+#EXTINF:-1 tvg-id="DisneyChannel.pt" tvg-name="PT| DISNEY CHANNEL" tvg-logo="http://logo.protv.cc/piconsnew/disneychannel.png" group-title="PT| CRIANCAS",PT| DISNEY CHANNEL
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107498
+#EXTINF:-1 tvg-id="DisneyJunior.pt" tvg-name="PT| DISNEY JUNIOR" tvg-logo="http://logo.protv.cc/piconsnew/disneyjunior.png" group-title="PT| CRIANCAS",PT| DISNEY JUNIOR
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107497
+#EXTINF:-1 tvg-id="Panda.pt" tvg-name="PT| CANAL PANDA" tvg-logo="http://logo.protv.cc/piconsnew/canalpanda.png" group-title="PT| CRIANCAS",PT| CANAL PANDA
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107509
+#EXTINF:-1 tvg-id="Biggs.pt" tvg-name="PT| BIGGS" tvg-logo="http://logo.protv.cc/piconsnew/biggs.png" group-title="PT| CRIANCAS",PT| BIGGS
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107514
+#EXTINF:-1 tvg-id="JimJam.pt" tvg-name="PT| JIM JAM" tvg-logo="http://logo.protv.cc/piconsnew/jimjam.png" group-title="PT| CRIANCAS",PT| JIM JAM
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107473
+#EXTINF:-1 tvg-id="BabyTV.pt" tvg-name="PT| BABY TV" tvg-logo="http://logo.protv.cc/piconsnew/babytv.png" group-title="PT| CRIANCAS",PT| BABY TV
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107515
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="PT| NICKELODEON" tvg-logo="http://logo.protv.cc/piconsnew/nickelodeon.png" group-title="PT| CRIANCAS",PT| NICKELODEON
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107460
+#EXTINF:-1 tvg-id="" tvg-name="PT| BOOMERANG" tvg-logo="http://logo.protv.cc/piconsnew/boomerang.png" group-title="PT| CRIANCAS",PT| BOOMERANG
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/996540
+#EXTINF:-1 tvg-id="BabyTV.pt" tvg-name="PT| BABYTV (NA)" tvg-logo="http://logo.protv.cc/piconsnew/babytv.png" group-title="PT| CRIANCAS",PT| BABYTV (NA)
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/156355
+#EXTINF:-1 tvg-id="NickJr.pt" tvg-name="PT| NICK JR." tvg-logo="http://logo.protv.cc/piconsnew/nickj.png" group-title="PT| CRIANCAS",PT| NICK JR.
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107461
+#EXTINF:-1 tvg-id="SicK.pt" tvg-name="PT| SIC K" tvg-logo="http://logo.protv.cc/piconsnew/sick.png" group-title="PT| CRIANCAS",PT| SIC K
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107441
+#EXTINF:-1 tvg-id="CartoonNetwork.pt" tvg-name="PT| CARTOON NETWORK" tvg-logo="http://logo.protv.cc/piconsnew/cartoonnetwork.png" group-title="PT| CRIANCAS",PT| CARTOON NETWORK
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107506
+#EXTINF:-1 tvg-id="" tvg-name="PT| BOOBA (EX)" tvg-logo="http://logo.protv.cc/piconsnew/BOOBA-.png" group-title="PT| EXCLUSIVO",PT| BOOBA (EX)
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/378332
+#EXTINF:-1 tvg-id="" tvg-name="##### PT LIFESTYLE #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/PORTUGAL.png" group-title="PT| INTRETENIMENTO",##### PT LIFESTYLE #####
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118434
+#EXTINF:-1 tvg-id="Blaze.uk" tvg-name="PT| AMC BREAK" tvg-logo="http://logo.protv.cc/piconsnew/amcbreak.png" group-title="PT| INTRETENIMENTO",PT| AMC BREAK
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107513
+#EXTINF:-1 tvg-id="CBSRealityEU.uk" tvg-name="PT| CBS REALITY" tvg-logo="http://logo.protv.cc/piconsnew/cbsreality.png" group-title="PT| INTRETENIMENTO",PT| CBS REALITY
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107505
+#EXTINF:-1 tvg-id="EEntertainment.pt" tvg-name="PT| E! ENTERTAINMENT" tvg-logo="http://logo.protv.cc/piconsnew/eentertainment.png" group-title="PT| INTRETENIMENTO",PT| E! ENTERTAINMENT
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107496
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="PT| TLC" tvg-logo="http://logo.protv.cc/piconsnew/tlc.png" group-title="PT| INTRETENIMENTO",PT| TLC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107428
+#EXTINF:-1 tvg-id="FashionTV.pt" tvg-name="PT| FASHION TV" tvg-logo="http://logo.protv.cc/piconsnew/fashion.png" group-title="PT| INTRETENIMENTO",PT| FASHION TV
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107480
+#EXTINF:-1 tvg-id="TravelChannel.pt" tvg-name="PT| TRAVEL CHANNEL HD" tvg-logo="http://logo.protv.cc/piconsnew/travelchannel.png" group-title="PT| INTRETENIMENTO",PT| TRAVEL CHANNEL HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107426
+#EXTINF:-1 tvg-id="us.DOGTV - DOGTV" tvg-name="PT| DOG TV HD" tvg-logo="http://logo.protv.cc/picons/logos/USA/DOG-TV-HD.png" group-title="PT| INTRETENIMENTO",PT| DOG TV HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1430590
+#EXTINF:-1 tvg-id="" tvg-name="PT| DIZI HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/DIZI.png" group-title="PT| INTRETENIMENTO",PT| DIZI HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1369658
+#EXTINF:-1 tvg-id="" tvg-name="PT| SAUDE HD" tvg-logo="http://logo.protv.cc/piconsnew/SAUDE-TV.png" group-title="PT| INTRETENIMENTO",PT| SAUDE HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/368053
+#EXTINF:-1 tvg-id="TravelChannel.pt" tvg-name="PT| TRAVEL CHANNEL HEVC" tvg-logo="http://logo.protv.cc/piconsnew/travelchannel.png" group-title="PT| INTRETENIMENTO",PT| TRAVEL CHANNEL HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118443
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT| 24 KITCHEN HD" tvg-logo="http://logo.protv.cc/piconsnew/24kitchen.png" group-title="PT| INTRETENIMENTO",PT| 24 KITCHEN HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107523
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="PT| 24 KITCHEN HEVC" tvg-logo="http://logo.protv.cc/piconsnew/24kitchen.png" group-title="PT| INTRETENIMENTO",PT| 24 KITCHEN HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118465
+#EXTINF:-1 tvg-id="" tvg-name="##### PT RELIGAO #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/PORTUGAL.png" group-title="PT| RELIGIAO",##### PT RELIGAO #####
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1287545
+#EXTINF:-1 tvg-id="CancaoNova.pt" tvg-name="PT| CANCAO NOVA" tvg-logo="http://logo.protv.cc/piconsnew/cancaonova.png" group-title="PT| RELIGIAO",PT| CANCAO NOVA
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107507
+#EXTINF:-1 tvg-id="" tvg-name="PT| REDE SECULO 21" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/REDE-SECULO-21.png" group-title="PT| RELIGIAO",PT| REDE SECULO 21
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1337531
+#EXTINF:-1 tvg-id="" tvg-name="PT| TV FATIMA" tvg-logo="http://logo.protv.cc/piconsnew/FATIMA-TV.png" group-title="PT| RELIGIAO",PT| TV FATIMA
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107648
+#EXTINF:-1 tvg-id="" tvg-name="PT| KURIAKOS TV" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/KURIAKOS.png" group-title="PT| RELIGIAO",PT| KURIAKOS TV
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1455484
+#EXTINF:-1 tvg-id="" tvg-name="##### PT MUSICA #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/PORTUGAL.png" group-title="PT| MUSICA",##### PT MUSICA #####
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118436
+#EXTINF:-1 tvg-id="MCM.mu" tvg-name="PT| MCM POP" tvg-logo="http://logo.protv.cc/piconsnew/mcmpop.png" group-title="PT| MUSICA",PT| MCM POP
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107470
+#EXTINF:-1 tvg-id="MTV.pt" tvg-name="PT| MTV PORTUGAL" tvg-logo="http://logo.protv.cc/piconsnew/mtvportugal.png" group-title="PT| MUSICA",PT| MTV PORTUGAL
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107467
+#EXTINF:-1 tvg-id="VH1.pt" tvg-name="PT| VH1" tvg-logo="http://logo.protv.cc/piconsnew/vh1.png" group-title="PT| MUSICA",PT| VH1
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107412
+#EXTINF:-1 tvg-id="AfroMusicChannel.pt" tvg-name="PT| AFRO MUSIC" tvg-logo="http://logo.protv.cc/piconsnew/afromusic.png" group-title="PT| MUSICA",PT| AFRO MUSIC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107521
+#EXTINF:-1 tvg-id="TraceToca.fr" tvg-name="PT| TRACE TOCA" tvg-logo="http://logo.protv.cc/piconsnew/tracetoca.png" group-title="PT| MUSICA",PT| TRACE TOCA
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107427
+#EXTINF:-1 tvg-id="Mezzo.mu" tvg-name="PT| MEZZO" tvg-logo="http://logo.protv.cc/piconsnew/mezzo.png" group-title="PT| MUSICA",PT| MEZZO
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107469
+#EXTINF:-1 tvg-id="" tvg-name="PT| KISS TV" tvg-logo="http://logo.protv.cc/piconsnew/kiss.png" group-title="PT| MUSICA",PT| KISS TV
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/378329
+#EXTINF:-1 tvg-id="" tvg-name="##### PT INTERNACIONAL #####" tvg-logo="http://logo.protv.cc/picons/logos/logos/PORTUGAL.png" group-title="PT| INTERNACIONAL",##### PT INTERNACIONAL #####
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/118435
+#EXTINF:-1 tvg-id="GloboInternacional.pt" tvg-name="PT| GLOBO INTERNATIONAL" tvg-logo="http://logo.protv.cc/piconsnew/globo.png" group-title="PT| INTERNACIONAL",PT| GLOBO INTERNATIONAL
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/79655
+#EXTINF:-1 tvg-id="Globo.pt" tvg-name="PT| GLOBO FHD" tvg-logo="http://logo.protv.cc/piconsnew/tvglobo.png" group-title="PT| INTERNACIONAL",PT| GLOBO FHD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107409
+#EXTINF:-1 tvg-id="" tvg-name="PT| GLOBO NEWS" tvg-logo="http://logo.protv.cc/picons/logos/LATINO/GLOBO-NEWS.png" group-title="PT| INTERNACIONAL",PT| GLOBO NEWS
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1466296
+#EXTINF:-1 tvg-id="Globo.pt" tvg-name="PT| GLOBO MEO" tvg-logo="http://logo.protv.cc/piconsnew/globo.png" group-title="PT| INTERNACIONAL",PT| GLOBO MEO
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107478
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="PT| TV RECORD" tvg-logo="http://logo.protv.cc/piconsnew/tvrecord.png" group-title="PT| INTERNACIONAL",PT| TV RECORD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107424
+#EXTINF:-1 tvg-id="RecordTV.br" tvg-name="PT| RECORD TV (NA)" tvg-logo="http://logo.protv.cc/piconsnew/recordtv.png" group-title="PT| INTERNACIONAL",PT| RECORD TV (NA)
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/156352
+#EXTINF:-1 tvg-id="" tvg-name="PT| RECORD NEWS" tvg-logo="http://logo.protv.cc/picons/logos/record_news.png" group-title="PT| INTERNACIONAL",PT| RECORD NEWS
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1440881
+#EXTINF:-1 tvg-id="ZAPViva.ao" tvg-name="PT| ZAP VIVA HEVC" tvg-logo="http://logo.protv.cc/piconsnew/zapvivahd.png" group-title="PT| INTERNACIONAL",PT| ZAP VIVA HEVC
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/368057
+#EXTINF:-1 tvg-id="" tvg-name="PT| ZAP VIVA HD" tvg-logo="http://logo.protv.cc/piconsnew/zapvivahd.png" group-title="PT| INTERNACIONAL",PT| ZAP VIVA HD
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107411
+#EXTINF:-1 tvg-id="TpaInternational.pt" tvg-name="PT| TPA1" tvg-logo="http://logo.protv.cc/piconsnew/TPA1-TV.jpeg" group-title="PT| INTERNACIONAL",PT| TPA1
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/107526
+#EXTINF:-1 tvg-id="TpaInternational.pt" tvg-name="PT| TPA INTERNATIOCAL" tvg-logo="http://logo.protv.cc/piconsnew/tpahd.png" group-title="PT| INTERNACIONAL",PT| TPA INTERNATIOCAL
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/207198
+#EXTINF:-1 tvg-id="" tvg-name="PT| CACA VISION" tvg-logo="http://logo.protv.cc/piconsnew/cacavision.png" group-title="PT| INTERNACIONAL",PT| CACA VISION
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/411826
+#EXTINF:-1 tvg-id="" tvg-name="PT| TCV CABO" tvg-logo="http://logo.protv.cc/piconsnew/tcvinternacional.png" group-title="PT| INTERNACIONAL",PT| TCV CABO
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/86460
+#EXTINF:-1 tvg-id="" tvg-name="##### PT DAZN PPV #####" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",##### PT DAZN PPV #####
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375077
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 1 HD (D): Internazionali BNL d`Italia Women Single| WTA 1000 Rome | Day 4| Fri 10 May 12:00" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 1 HD (D): Internazionali BNL d`Italia Women Single| WTA 1000 Rome | Day 4| Fri 10 May 12:00
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375078
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 2 HD (D): PFL MENA 1| Fri 10 May 18:30" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 2 HD (D): PFL MENA 1| Fri 10 May 18:30
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375079
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 3 HD (D): 2. Bundesliga| Paderborn x Hamburger| Fri 10 May 19:30" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 3 HD (D): 2. Bundesliga| Paderborn x Hamburger| Fri 10 May 19:30
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375080
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 4 HD (D): Frauen Bundesliga| Leipzig vs. Hoffenheim| Fri 10 May 19:30" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 4 HD (D): Frauen Bundesliga| Leipzig vs. Hoffenheim| Fri 10 May 19:30
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375081
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 5 HD (D): Champions Chess Tour| Chess.Com Masters | Day 3| Fri 10 May 19:30" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 5 HD (D): Champions Chess Tour| Chess.Com Masters | Day 3| Fri 10 May 19:30
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375082
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 6 HD (D): Ennis vs. Crowley| Ennis vs Crowley | Press Conference| Fri 10 May 20:00" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 6 HD (D): Ennis vs. Crowley| Ennis vs Crowley | Press Conference| Fri 10 May 20:00
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375083
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 7 HD (D): Liga Endesa| Barça x Unicaja| Fri 10 May 20:00" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 7 HD (D): Liga Endesa| Barça x Unicaja| Fri 10 May 20:00
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375084
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 8 HD (D): Bundesliga 2023/2024| Augsburg x Stuttgart| Fri 10 May 20:45" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 8 HD (D): Bundesliga 2023/2024| Augsburg x Stuttgart| Fri 10 May 20:45
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375085
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 9 HD (D): LIGA F| Barcelona vs. Athletic Bilbao| Fri 10 May 21:30" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 9 HD (D): LIGA F| Barcelona vs. Athletic Bilbao| Fri 10 May 21:30
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375086
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 10 HD (D): Liga Endesa| Valencia x Real Madrid| Fri 10 May 22:00" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 10 HD (D): Liga Endesa| Valencia x Real Madrid| Fri 10 May 22:00
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375087
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 11 HD (D): Primera División 2023/2024| Alavés x Girona| Fri 10 May 22:00" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 11 HD (D): Primera División 2023/2024| Alavés x Girona| Fri 10 May 22:00
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375088
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 12 HD (D): Liga Endesa| Gran Canaria x Girona| Fri 10 May 22:30" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 12 HD (D): Liga Endesa| Gran Canaria x Girona| Fri 10 May 22:30
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375089
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 13 HD (D): IRONMAN Pro Series| IRONMAN 70.3 Alcúdia_Mallorca| Sat 11 May 08:00" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 13 HD (D): IRONMAN Pro Series| IRONMAN 70.3 Alcúdia_Mallorca| Sat 11 May 08:00
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375090
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 14 HD (D): ABB FIA Formula E| E_Prix Berlin | Qualifying 1| Sat 11 May 11:20" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 14 HD (D): ABB FIA Formula E| E_Prix Berlin | Qualifying 1| Sat 11 May 11:20
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375091
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 15 HD (D): Internazionali BNL d`Italia Women Single| WTA 1000 Rome | Day 5| Sat 11 May 12:00" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 15 HD (D): Internazionali BNL d`Italia Women Single| WTA 1000 Rome | Day 5| Sat 11 May 12:00
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375092
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 16 HD (D): WSE Champions League| Sporting CP x FC Porto| Sat 11 May 14:00" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 16 HD (D): WSE Champions League| Sporting CP x FC Porto| Sat 11 May 14:00
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375093
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 17 HD (D): 2. Bundesliga| Schalke x Rostock| Sat 11 May 14:00" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 17 HD (D): 2. Bundesliga| Schalke x Rostock| Sat 11 May 14:00
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375094
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 18 HD (D): PREMIER LEAGUE| Fulham x Man. City| Sat 11 May 14:30" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 18 HD (D): PREMIER LEAGUE| Fulham x Man. City| Sat 11 May 14:30
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375095
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 19 HD (D): Primera División 2023/2024| Mallorca x Las Palmas| Sat 11 May 15:00" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 19 HD (D): Primera División 2023/2024| Mallorca x Las Palmas| Sat 11 May 15:00
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375096
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 20 HD (D): RWS Muay Thai| Khunsueklek vs Petchsiam| Sat 11 May 15:45" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 20 HD (D): RWS Muay Thai| Khunsueklek vs Petchsiam| Sat 11 May 15:45
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375097
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 21 HD (D): ABB FIA Formula E| E_Prix Berlin | Race 1| Sat 11 May 16:03" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 21 HD (D): ABB FIA Formula E| E_Prix Berlin | Race 1| Sat 11 May 16:03
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375098
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 22 HD (D): DAZN ONLY _ Bundesliga 2023/2024| Bundesliga Goal Arena| Sat 11 May 16:30" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 22 HD (D): DAZN ONLY _ Bundesliga 2023/2024| Bundesliga Goal Arena| Sat 11 May 16:30
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375099
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 23 HD (D): Bundesliga 2023/2024| Freiburg x Heidenheim| Sat 11 May 16:30" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 23 HD (D): Bundesliga 2023/2024| Freiburg x Heidenheim| Sat 11 May 16:30
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375100
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 24 HD (D): Bundesliga 2023/2024| M`Gladbach x Frankfurt| Sat 11 May 16:30" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 24 HD (D): Bundesliga 2023/2024| M`Gladbach x Frankfurt| Sat 11 May 16:30
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375101
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 25 HD (D): Bundesliga 2023/2024| Köln x Union Berlin| Sat 11 May 16:30" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 25 HD (D): Bundesliga 2023/2024| Köln x Union Berlin| Sat 11 May 16:30
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375102
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 26 HD (D): DAZN ONLY _ Bundesliga 2023/2024| Leipzig x Werder Bremen| Sat 11 May 16:30" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 26 HD (D): DAZN ONLY _ Bundesliga 2023/2024| Leipzig x Werder Bremen| Sat 11 May 16:30
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375103
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 27 HD (D): PREMIER LEAGUE| Wolves x Crystal Palace| Sat 11 May 17:00" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 27 HD (D): PREMIER LEAGUE| Wolves x Crystal Palace| Sat 11 May 17:00
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375104
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 28 HD (D): PREMIER LEAGUE| Everton x Sheffield Utd| Sat 11 May 17:00" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 28 HD (D): PREMIER LEAGUE| Everton x Sheffield Utd| Sat 11 May 17:00
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375105
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 29 HD (D): PREMIER LEAGUE| Newcastle x Brighton| Sat 11 May 17:00" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 29 HD (D): PREMIER LEAGUE| Newcastle x Brighton| Sat 11 May 17:00
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375106
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 30 HD (D): PREMIER LEAGUE| Tottenham x Burnley| Sat 11 May 17:00" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 30 HD (D): PREMIER LEAGUE| Tottenham x Burnley| Sat 11 May 17:00
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375107
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 31 HD (D): Primera División 2023/2024| Villarreal x Sevilla| Sat 11 May 17:15" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 31 HD (D): Primera División 2023/2024| Villarreal x Sevilla| Sat 11 May 17:15
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375108
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 32 HD (D): WSE Champions League| OC Barcelos x UD Oliveirense| Sat 11 May 18:30" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 32 HD (D): WSE Champions League| OC Barcelos x UD Oliveirense| Sat 11 May 18:30
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375109
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 33 HD (D): DAZN ONLY _ LaLiga Santander 2023/2024| Granada x Real Madrid| Sat 11 May 19:30" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 33 HD (D): DAZN ONLY _ LaLiga Santander 2023/2024| Granada x Real Madrid| Sat 11 May 19:30
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375110
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 34 HD (D): PREMIER LEAGUE| Nott`m Forest x Chelsea| Sat 11 May 19:30" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 34 HD (D): PREMIER LEAGUE| Nott`m Forest x Chelsea| Sat 11 May 19:30
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375111
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 35 HD (D): Bundesliga 2023/2024| Mainz x Dortmund| Sat 11 May 19:30" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 35 HD (D): Bundesliga 2023/2024| Mainz x Dortmund| Sat 11 May 19:30
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375112
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 36 HD (D): Champions Chess Tour| Chess.Com Masters | Day 4| Sat 11 May 19:30" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 36 HD (D): Champions Chess Tour| Chess.Com Masters | Day 4| Sat 11 May 19:30
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375113
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 37 HD (D): 2. Bundesliga| Kiel x Düsseldorf| Sat 11 May 21:30" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 37 HD (D): 2. Bundesliga| Kiel x Düsseldorf| Sat 11 May 21:30
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375114
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 38 HD (D): First Division A 2023/2024| Anderlecht x Genk| Sat 11 May 21:45" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 38 HD (D): First Division A 2023/2024| Anderlecht x Genk| Sat 11 May 21:45
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375115
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 39 HD (D): Primera División 2023/2024| Athletic x Osasuna| Sat 11 May 22:00" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 39 HD (D): Primera División 2023/2024| Athletic x Osasuna| Sat 11 May 22:00
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375116
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 40 HD (D): DAZN ONLY _ Ligue 1 2023/2024| PSG x Toulouse| Sat 11 May 22:00" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 40 HD (D): DAZN ONLY _ Ligue 1 2023/2024| PSG x Toulouse| Sat 11 May 22:00
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375117
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 41 HD (D): LIGA F| Real Madrid vs. Atletico Madrid| Sat 11 May 22:00" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 41 HD (D): LIGA F| Real Madrid vs. Atletico Madrid| Sat 11 May 22:00
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375118
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 42 HD (D): PREMIER LEAGUE| West Ham x Luton| Sat 11 May 23:30" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 42 HD (D): PREMIER LEAGUE| West Ham x Luton| Sat 11 May 23:30
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375119
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 43 HD (D): PREMIER LEAGUE| Bournemouth x Brentford| Sun 12 May 02:30" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 43 HD (D): PREMIER LEAGUE| Bournemouth x Brentford| Sun 12 May 02:30
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375120
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 44 HD (D): Fight Night 39 | 2024| Rocky Hernandez vs Daniel Lugo| Sun 12 May 03:00" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 44 HD (D): Fight Night 39 | 2024| Rocky Hernandez vs Daniel Lugo| Sun 12 May 03:00
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375121
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 45 HD (D): WNFC| Mississippi Panthers v Atlanta Phoenix| Sun 12 May 03:00" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 45 HD (D): WNFC| Mississippi Panthers v Atlanta Phoenix| Sun 12 May 03:00
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375122
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 46 HD (D): ABB FIA Formula E| E_Prix Berlin | Qualifying 2| Sun 12 May 11:20" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 46 HD (D): ABB FIA Formula E| E_Prix Berlin | Qualifying 2| Sun 12 May 11:20
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375123
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 47 HD (D): Internazionali BNL d`Italia Women Single| WTA 1000 Rome | Day 6| Sun 12 May 12:00" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 47 HD (D): Internazionali BNL d`Italia Women Single| WTA 1000 Rome | Day 6| Sun 12 May 12:00
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375124
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 48 HD (D): Serie A Femminile| Napoli vs. AC Milan| Sun 12 May 13:30" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 48 HD (D): Serie A Femminile| Napoli vs. AC Milan| Sun 12 May 13:30
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375125
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 49 HD (D): 2. Bundesliga| St. Pauli x Osnabrück| Sun 12 May 14:30" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 49 HD (D): 2. Bundesliga| St. Pauli x Osnabrück| Sun 12 May 14:30
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375126
+#EXTINF:-1 tvg-id="" tvg-name="PT-DAZN 50 HD (D): Frauen Bundesliga| Bayern Munich vs. Nurnberg| Sun 12 May 15:00" tvg-logo="http://logo.protv.cc/picons/logos/dazn.png" group-title="PT| DAZN PPV",PT-DAZN 50 HD (D): Frauen Bundesliga| Bayern Munich vs. Nurnberg| Sun 12 May 15:00
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1375127
+#EXTINF:-1 tvg-id="" tvg-name="CV| TCV NACIONAL" tvg-logo="http://logo.protv.cc/piconsnew/tcvinternacional.png" group-title="PT| INTERNACIONAL",CV| TCV NACIONAL
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/793289
+#EXTINF:-1 tvg-id="" tvg-name="CV| TCV Internacional" tvg-logo="http://logo.protv.cc/piconsnew/tcvinternacional.png" group-title="PT| INTERNACIONAL",CV| TCV Internacional
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1050094
+#EXTINF:-1 tvg-id="" tvg-name="CV| Tiver Cabo Verde" tvg-logo="http://logo.protv.cc/piconsnew/Tiver-Cabo-Verde.jpeg" group-title="PT| INTERNACIONAL",CV| Tiver Cabo Verde
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1050093
+#EXTINF:-1 tvg-id="" tvg-name="CV| TCSM TV" tvg-logo="http://logo.protv.cc/piconsnew/TCSM-TV.png" group-title="PT| INTERNACIONAL",CV| TCSM TV
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1050092
+#EXTINF:-1 tvg-id="" tvg-name="CV| TV Rádio Sal One" tvg-logo="http://logo.protv.cc/piconsnew/TV-RAdio-Sal-One.png" group-title="PT| INTERNACIONAL",CV| TV Rádio Sal One
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1050091
+#EXTINF:-1 tvg-id="" tvg-name="CV| Africanews" tvg-logo="http://logo.protv.cc/piconsnew/africanews.png" group-title="PT| INTERNACIONAL",CV| Africanews
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1050090
+#EXTINF:-1 tvg-id="" tvg-name="CV| Rádio Kintura" tvg-logo="http://logo.protv.cc/piconsnew/RAdio-Kintura-RADIOLOGO.png" group-title="PT| INTERNACIONAL",CV| Rádio Kintura
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1050087
+#EXTINF:-1 tvg-id="" tvg-name="CV| Rádio Caboradio" tvg-logo="http://logo.protv.cc/piconsnew/RAdio-Caboradio.jpeg" group-title="PT| INTERNACIONAL",CV| Rádio Caboradio
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1050086
+#EXTINF:-1 tvg-id="" tvg-name="CV| Rádio Crioula" tvg-logo="http://logo.protv.cc/piconsnew/RAdio-Crioula.png" group-title="PT| INTERNACIONAL",CV| Rádio Crioula
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1050085
+#EXTINF:-1 tvg-id="" tvg-name="CV| Rádio Ribeira Brava" tvg-logo="http://logo.protv.cc/piconsnew/RAdio-Ribeira-Brava.png" group-title="PT| INTERNACIONAL",CV| Rádio Ribeira Brava
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1050080
+#EXTINF:-1 tvg-id="" tvg-name="CV| Rádio Sodade FM" tvg-logo="http://logo.protv.cc/piconsnew/RAdio-Sodade-FM.png" group-title="PT| INTERNACIONAL",CV| Rádio Sodade FM
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1050079
+#EXTINF:-1 tvg-id="" tvg-name="CV| Rádio Paul Santo Antão" tvg-logo="http://logo.protv.cc/piconsnew/RAdio-Kintura-RADIOLOGO.png" group-title="PT| INTERNACIONAL",CV| Rádio Paul Santo Antão
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1050078
+#EXTINF:-1 tvg-id="" tvg-name="CV| Rádio NRJ Kizomba" tvg-logo="http://logo.protv.cc/piconsnew/RAdio-Kintura-RADIOLOGO.png" group-title="PT| INTERNACIONAL",CV| Rádio NRJ Kizomba
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1050077
+#EXTINF:-1 tvg-id="" tvg-name="CV| Rádio Cabo Verde Internacional" tvg-logo="http://logo.protv.cc/piconsnew/TCV-Internacional.png" group-title="PT| INTERNACIONAL",CV| Rádio Cabo Verde Internacional
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1050076
+#EXTINF:-1 tvg-id="" tvg-name="CV| Rádio Comunitaria de Santa Maria" tvg-logo="http://logo.protv.cc/piconsnew/RAdio-Kintura-RADIOLOGO.png" group-title="PT| INTERNACIONAL",CV| Rádio Comunitaria de Santa Maria
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1050075
+#EXTINF:-1 tvg-id="" tvg-name="CV| Rádio Kompa Original" tvg-logo="http://logo.protv.cc/piconsnew/RAdio-Kintura-RADIOLOGO.png" group-title="PT| INTERNACIONAL",CV| Rádio Kompa Original
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1050073
+#EXTINF:-1 tvg-id="" tvg-name="CV| RÁDIO CIDADE CABO VERDE" tvg-logo="http://logo.protv.cc/piconsnew/RADIO-CIDADE-CABO-VERDE.png" group-title="PT| INTERNACIONAL",CV| RÁDIO CIDADE CABO VERDE
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1062153
+#EXTINF:-1 tvg-id="" tvg-name="CV| RÁDIO PRAIA FM" tvg-logo="http://logo.protv.cc/piconsnew/RADIO-PRAIA-FM.png" group-title="PT| INTERNACIONAL",CV| RÁDIO PRAIA FM
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1062152
+#EXTINF:-1 tvg-id="" tvg-name="CV| RÁDIO COMERCIAL" tvg-logo="http://logo.protv.cc/piconsnew/RADIO-COMERCIAL.png" group-title="PT| INTERNACIONAL",CV| RÁDIO COMERCIAL
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1062151
+#EXTINF:-1 tvg-id="" tvg-name="CV| RÁDIO MORABEZA" tvg-logo="http://logo.protv.cc/piconsnew/RADIO-MORABEZA.png" group-title="PT| INTERNACIONAL",CV| RÁDIO MORABEZA
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1062150
+#EXTINF:-1 tvg-id="" tvg-name="CV| RÁDIO NOVA" tvg-logo="http://logo.protv.cc/piconsnew/RADIO-NOVA.png" group-title="PT| INTERNACIONAL",CV| RÁDIO NOVA
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1062149
+#EXTINF:-1 tvg-id="" tvg-name="CV| RÁDIO RCV" tvg-logo="http://logo.protv.cc/piconsnew/RADIO-RCV.png" group-title="PT| INTERNACIONAL",CV| RÁDIO RCV
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1063024
+#EXTINF:-1 tvg-id="" tvg-name="CV| RÁDIO RCV +" tvg-logo="http://logo.protv.cc/piconsnew/RADIO-RCV-+.png" group-title="PT| INTERNACIONAL",CV| RÁDIO RCV +
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1062148
+#EXTINF:-1 tvg-id="" tvg-name="PT| Rádio Kompa Original" tvg-logo="" group-title="PT| INTERNACIONAL",PT| Rádio Kompa Original
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1044937
+#EXTINF:-1 tvg-id="" tvg-name="PT| Rádio Cidade Cabo Verde" tvg-logo="" group-title="PT| INTERNACIONAL",PT| Rádio Cidade Cabo Verde
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1044936
+#EXTINF:-1 tvg-id="" tvg-name="PT| Rádio Cabo Verde Internacional" tvg-logo="" group-title="PT| INTERNACIONAL",PT| Rádio Cabo Verde Internacional
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1044935
+#EXTINF:-1 tvg-id="" tvg-name="PT| Rádio NRJ Kizomba" tvg-logo="" group-title="PT| INTERNACIONAL",PT| Rádio NRJ Kizomba
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1044934
+#EXTINF:-1 tvg-id="" tvg-name="PT| Rádio Paul Santo Antão" tvg-logo="" group-title="PT| INTERNACIONAL",PT| Rádio Paul Santo Antão
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1044933
+#EXTINF:-1 tvg-id="" tvg-name="PT| Rádio Ribeira Brava" tvg-logo="" group-title="PT| INTERNACIONAL",PT| Rádio Ribeira Brava
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1044931
+#EXTINF:-1 tvg-id="" tvg-name="PT| Rádio Praia FM" tvg-logo="" group-title="PT| INTERNACIONAL",PT| Rádio Praia FM
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1044930
+#EXTINF:-1 tvg-id="" tvg-name="PT| Rádio Comercial" tvg-logo="" group-title="PT| INTERNACIONAL",PT| Rádio Comercial
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1044929
+#EXTINF:-1 tvg-id="" tvg-name="PT| Rádio Morabeza" tvg-logo="" group-title="PT| INTERNACIONAL",PT| Rádio Morabeza
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1044928
+#EXTINF:-1 tvg-id="" tvg-name="PT| Rádio Nova" tvg-logo="" group-title="PT| INTERNACIONAL",PT| Rádio Nova
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1044927
+#EXTINF:-1 tvg-id="" tvg-name="PT| Rádio Crioula" tvg-logo="" group-title="PT| INTERNACIONAL",PT| Rádio Crioula
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1044926
+#EXTINF:-1 tvg-id="" tvg-name="PT| Rádio Caboradio" tvg-logo="" group-title="PT| INTERNACIONAL",PT| Rádio Caboradio
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1044925
+#EXTINF:-1 tvg-id="" tvg-name="PT| Rádio Kintura" tvg-logo="" group-title="PT| INTERNACIONAL",PT| Rádio Kintura
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1044924
+#EXTINF:-1 tvg-id="" tvg-name="PT| Rádio RCV +" tvg-logo="" group-title="PT| INTERNACIONAL",PT| Rádio RCV +
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1044923
+#EXTINF:-1 tvg-id="" tvg-name="PT| Rádio RCV" tvg-logo="" group-title="PT| INTERNACIONAL",PT| Rádio RCV
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1044922
+#EXTINF:-1 tvg-id="" tvg-name="PT| Rádio Sodade FM" tvg-logo="" group-title="PT| INTERNACIONAL",PT| Rádio Sodade FM
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1044932
+#EXTINF:-1 tvg-id="" tvg-name="PT| RFM" tvg-logo="" group-title="PT| INTERNACIONAL",PT| RFM
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1295023
+#EXTINF:-1 tvg-id="" tvg-name="PT| RFM DANCE FLOOR" tvg-logo="" group-title="PT| INTERNACIONAL",PT| RFM DANCE FLOOR
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1295024
+#EXTINF:-1 tvg-id="" tvg-name="PT| Tiver Cabo Verde" tvg-logo="" group-title="PT| INTERNACIONAL",PT| Tiver Cabo Verde
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1044921
+#EXTINF:-1 tvg-id="" tvg-name="PT| TCV Nacional" tvg-logo="" group-title="PT| INTERNACIONAL",PT| TCV Nacional
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1044920
+#EXTINF:-1 tvg-id="" tvg-name="PT| KISS FM" tvg-logo="" group-title="PT| INTERNACIONAL",PT| KISS FM
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1295025
+#EXTINF:-1 tvg-id="" tvg-name="CV| Rádio Praia FM" tvg-logo="" group-title="PT| INTERNACIONAL",CV| Rádio Praia FM
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1058783
+#EXTINF:-1 tvg-id="" tvg-name="CV| Rádio Comercial" tvg-logo="" group-title="PT| INTERNACIONAL",CV| Rádio Comercial
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1058782
+#EXTINF:-1 tvg-id="" tvg-name="CV| Rádio Morabeza" tvg-logo="" group-title="PT| INTERNACIONAL",CV| Rádio Morabeza
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1058781
+#EXTINF:-1 tvg-id="" tvg-name="CV| Rádio RCV +" tvg-logo="" group-title="PT| INTERNACIONAL",CV| Rádio RCV +
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1058779
+#EXTINF:-1 tvg-id="" tvg-name="CV| Rádio RCV" tvg-logo="" group-title="PT| INTERNACIONAL",CV| Rádio RCV
+http://smariptv.xyz:80/0b14WRvtZckx/oW40Zf4h4t/1058778
